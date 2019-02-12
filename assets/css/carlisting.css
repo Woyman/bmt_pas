@@ -1,0 +1,122 @@
+
+
+.rentalmobil{width:  100%;float:  left;}
+	.rentalmobil .rentalmobil-box{width:  100%;float:  left;margin-bottom:  20px;border-bottom: 1px solid #c8c8c8;padding-bottom: 20px;}
+	.rentalmobil-box h2{font-family:Calibri,sans-serif;margin-top: 0px;}
+	.rentalmobil-box .news-des2 table{border: 1px solid #c8c8c8;}
+	.rentalmobil-box .news-des2 table thead{background: #007dbb;color: white;}
+	.rentalmobil-box .news-des2 table thead p{margin: 7px 0px;}
+	.rentalmobil-box .news-des2 table p{margin: 7px 0px;}
+	.rentalmobil-box .news-img{margin-bottom: 20px;}
+	.rentalmobil-box p ,.terms {margin-left: 0;font-size: 14px; }
+
+
+@media(min-width:1200px) {
+	.newskk{width: 99%;}
+	.cover2{height: 620px;}
+	.cover{height: 100vh;}
+	.singelbox{/* height: 325px; */}
+	.singelbox .thumb{height: 177px;overflow: hidden;}
+	.onlidesktop{max-height: 327px;margin-bottom: 20px;overflow: hidden;float: right;}
+	.bottom{margin-bottom: 90px;}
+	.boxnews{/* height: 325px; */}
+	.boxnews .transition{height: 177px;overflow: hidden;}
+	.boxnews .transition img{min-height: 177px;}
+	.gallerybox{/* height: 325px; */}
+	.gallerybox .thumb{height: 170px;overflow: hidden;}
+	.logotitle{float: left;font-size: 21px;color: white;text-transform: capitalize;padding: 14px 0px 14px 10px;}
+	
+	.rentalmobil-box .news-img img{width: 73%;}
+}
+@media(min-width:992px) and (max-width:1199px){
+	.newskk{width: 99%;}
+	.cover2{height: 500px;}
+	.cover{height: 100vh;}
+	.singelbox{height: 311px;}
+	.singelbox .thumb{height: 145px;overflow: hidden;}
+	.onlidesktop{max-height: 327px;margin-bottom: 20px;overflow: hidden;float: right;}
+	.bottom{margin-bottom: 90px;}
+	.boxnews{/* height: 325px; */}
+	.boxnews .transition{height: 177px;overflow: hidden;}
+	.boxnews .transition img{min-height: 177px;}
+	.gallerybox{/* height: 325px; */}
+	.gallerybox .thumb{height: 140px;overflow: hidden;}
+	.logotitle{float: left;font-size: 21px;color: white;text-transform: capitalize;padding: 14px 0px 14px 10px;}
+	
+	.rentalmobil-box .news-img img{width: 73%;}
+}
+@media(min-width:766px) and (max-width:991px){
+	.cover2{height: 450px;}
+	.cover{height: 100vh;}
+	.singelbox{height: 385px;}
+	.singelbox .thumb{height: 227px;overflow: hidden;}
+	.onlidesktop{max-height: 327px;margin-bottom: 20px;overflow: hidden;float: right;}
+	.bottom{margin-bottom: 90px;}
+	.vc_col-sm-3 {width: 33%;}
+	.boxnews{/* height: 325px; */}
+	.boxnews .transition{height: 177px;overflow: hidden;}
+	.boxnews .transition img{min-height: 177px;}
+	.gallerybox{/* height: 325px; */}
+	.gallerybox .thumb{height: 144px;overflow: hidden;}
+	.logotitle{float: left;font-size: 21px;color: white;text-transform: capitalize;padding: 14px 0px 14px 10px;}
+	
+	.rentalmobil-box .news-img img{width: 73%;}
+}
+@media(min-width:480px) and (max-width:765px){
+	.cover2{height: 377px;}
+	.cover{height: 100vh;}
+	.singelbox{height:  auto;}
+	.singelbox .thumb{/* height: 311px; */}
+	.vc_col-sm-3 {width: 49%;float:  left;}
+	.bottom{margin-bottom: 90px;}
+	.boxnews{/* height: 325px; */}
+	.boxnews .transition{height: 177px;overflow: hidden;}
+	.boxnews .transition img{min-height: 177px;}
+	.gallerybox{/* height: 325px; */}
+	.gallerybox .thumb{/* height: 177px; *//* overflow: hidden; */}
+	.logotitle{float: left;font-size: 21px;color: white;text-transform: capitalize;padding: 14px 0px 14px 10px;}
+	
+	.rentalmobil-box .news-img{margin-bottom: 20px;}
+	.rentalmobil-box .news-img img{width: 100%;}
+}
+@media(max-width:479px){
+	.cover2{height: 300px;}
+	.cover{height: 100vh;}
+	.singelbox{height:  auto;}
+	.singelbox .thumb{/* height: 200px; *//* overflow:  hidden; */}
+	.vc_col-sm-3 {width: 49%;float:  left;}
+	.bottom{margin-bottom: 90px;}
+	.boxnews{/* height: 325px; */}
+	.boxnews .transition{height: 177px;overflow: hidden;}
+	.boxnews .transition img{min-height: 177px;}
+	.gallerybox{/* height: 325px; */}
+	.gallerybox .thumb{/* height: 177px; *//* overflow: hidden; */}
+	.logotitle{float: left;font-size: 21px;color: white;text-transform: capitalize;padding: 14px 0px 14px 10px;}
+	
+	.rentalmobil-box .news-img{margin-bottom: 20px;}
+	.rentalmobil-box .news-img img{width: 100%;}
+}
+
+.topslideb{position: absolute;z-index: 9999;width: 100%;}
+
+.scrollungul{
+    height: 377px;
+    overflow-y: scroll;
+}
+.scrollungul::-webkit-scrollbar { 
+    display: none;
+}
+
+
+.bahasa{}
+.bahasa select{
+	color: white;
+    font-size: 12px;
+    padding: 10px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 center;
+    border: 1px solid #e8e8e8;
+}
+.bahasa select option{
+	color: black;
+}
