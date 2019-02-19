@@ -32,10 +32,11 @@
 						</a>
             <!-- end logo -->
             <address>
-							<strong>Registered Companyname, Inc.</strong><br>
-							 8895 Somename Ave, Suite 600<br>
-							 San Francisco, CA 94107<br>
-							<abbr title="Phone">P:</abbr> (123) 456-7890
+							<strong>BMT Projo Artha Sejahtera (PAS)</strong><br>
+							 Jl. Kh. MAS Mansyur, Bejen, <br>
+							 Bantul, Kec. Bantul, Bantul, <br>
+               Daerah Istimewa Yogyakarta 55711<br>
+							<abbr title="Phone">CP:</abbr> (0274) 367798
 						</address>
           </div>
         </div>
@@ -46,7 +47,7 @@
         <div class="row">
           <div class="span6">
             <p>
-              &copy; Serenity - All right reserved
+             Copyright 2019 BMT Projo Artha Sejahtera | All Rights Reserved
             </p>
           </div>
           <div class="span6">

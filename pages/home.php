@@ -1,45 +1,53 @@
 <section id="maincontent">
     <div class="container">
+
+        <div class="tagline_text centered">
+            <h2>BMT PAS Menyediakan Pelayanan:</h2>
+            <p>
+              Proses Cepat, dan Angsuran Terjangkau
+            </p>
+        </div>
+
       <div class="row">
         <div class="span3 features">
-          <i class="icon-circled icon-32 icon-suitcase left active"></i>
-          <h4>Responsive bootstrap</h4>
+          <i class="icon-circled icon-briefcase icon-48 left"></i>
+          <h4 class="mt-2">Pembiayaan Produktif</h4>
           <div class="dotted_line">
           </div>
           <p class="left">
-            Dolorem adipiscing definiebas ut nec. Dolore consectetuer eu vim, elit molestie ei has, petentium imperdiet in pri mel virtute nam.
+            Anda bisa mendapatkan modal untuk pertanian, peternakan, atau modal usaha lainnya
           </p>
-          <a href="#">Learn more</a>
+          <!-- <a href="#">Learn more</a> -->
         </div>
         <div class="span3 features">
-          <i class="icon-circled icon-32 icon-plane left"></i>
-          <h4>Lot of features</h4>
+          <i class="icon-circled icon-48 icon-book left"></i>
+          <h4>Pembiayaan Multiguna</h4>
           <div class="dotted_line">
           </div>
           <p class="left">
-            Dolorem adipiscing definiebas ut nec. Dolore consectetuer eu vim, elit molestie ei has, petentium imperdiet in pri mel virtute nam.
+            Kami menyediakan modal untuk keperluan sekolah, rekreasi, rumah sakit, atau bahkan sunatan.
           </p>
-          <a href="#">Learn more</a>
+          <!-- <a href="#">Learn more</a> -->
         </div>
         <div class="span3 features">
-          <i class="icon-circled icon-32 icon-leaf left"></i>
-          <h4>Multipurpose template</h4>
+          <i class="icon-circled icon-48 icon-leaf left"></i>
+          <h4>Pembiayaan Konsumtif</h4>
           <div class="dotted_line">
           </div>
           <p class="left">
-            Dolorem adipiscing definiebas ut nec. Dolore consectetuer eu vim, elit molestie ei has, petentium imperdiet in pri mel virtute nam.
+            Butuh dana untuk beli handphone, motor, mobil, rumah, atau kurban? Kami bisa!
           </p>
-          <a href="#">Learn more</a>
+          <!-- <a href="#">Learn more</a> -->
         </div>
         <div class="span3 features">
-          <i class="icon-circled icon-32 icon-wrench left"></i>
-          <h4>With latest technology</h4>
+          <i class="icon-circled icon-48 icon-refresh left"></i>
+          <h4>Gadai</h4>
           <div class="dotted_line">
           </div>
           <p class="left">
-            Dolorem adipiscing definiebas ut nec. Dolore consectetuer eu vim, elit molestie ei has, petentium imperdiet in pri mel virtute nam.
+            Gadaikan barang yang Anda punya untuk mendapatkan dana segar dengan proses cepat dan angsuran terjangkau.
           </p>
-          <a href="#">Learn more</a>
+          <!-- <a href="#">Learn more</a> -->
         </div>
       </div>
       <div class="row">
