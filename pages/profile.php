@@ -28,6 +28,11 @@
     <div class="container">
       <div class="row">
         <div class="span12">
+
+          <div class="centered">
+            <img src="assets/logo-bmt.jpg" width="500px">
+          </div>
+
           <h4>Sejarah Berdirinya BMT Projo Artha Sejahtera</h4>
           <p>
             BMT Projo Artha Sejahtera adalah suatu lembaga Jasa Keuangan Syari’ah yang sistim operasionalnya berdasarkan pada prinsip-prinsip syariah Islam, tidak menggunakan sistim bunga atau riba dalam pengelolaan pembagian keuntungannya tetapi menggunakan sistim bagi hasil berdasarkan syariat Islam dan saling menguntungkan. 
@@ -90,7 +95,56 @@
               <td width="200">Nomer & Tanggal Pengesahan Badan Hukum</td>
               <td>: 086/BH/X/2006, 20 Oktober 2006</td>
             </tr>
+           <!--  <tr>
+              <td>Susunan pengurus, pengawas, pengelola</td>
+              <td>: Terlampir di bawah</td>
+            </tr> -->
           </table>
+
+          <br><br>
+          <h4>Pengurus dan Pengawas</h4>
+
+          <h5>Pengurus</h5>
+          <table>
+            <tr>
+              <td width="200">Ketua</td>
+              <td>: H. Jupriyanto, S. Si</td>
+            </tr>
+            <tr>
+              <td width="200">Sekretaris</td>
+              <td>: Andi Maryanto, S. E, S.H</td>
+            </tr>
+            <tr>
+              <td width="200">Bendahara</td>
+              <td>: Arifah Sri Sugiyanto, SE</td>
+            </tr>
+          </table>
+          <br>
+          <h5>Pengawas</h5>
+          <h6>Susunan Dewan Pengawas Syariah</h6>
+          <table>
+            <tr>
+              <td width="200">Ketua</td>
+              <td>: H. Achmad Khudhori, Lc</td>
+            </tr>
+            <tr>
+              <td width="200">Anggota</td>
+              <td>: Bima Sakayo, ST</td>
+            </tr>
+          </table>
+          <br>
+          <h6>Susunan Dewan Pengawas Manajemen</h6>
+          <table>
+            <tr>
+              <td width="200">Ketua</td>
+              <td>: Agus Effendi, S.E</td>
+            </tr>
+            <tr>
+              <td width="200">Anggota</td>
+              <td>: Slamet Raharjo, S.Pd</td>
+            </tr>
+          </table>
+
 
           <br><br>
           <h4>Perijinan dan No. NPWP yang dimiliki</h4>

@@ -28,7 +28,7 @@
           <div class="widget">
             <!-- logo -->
             <a class="brand logo" href="index.html">
-							<img src="assets/img/logo-dark.png" alt="">
+							<img src="assets/logo-bmt-kotak.jpg" alt="" width="150">
 						</a>
             <!-- end logo -->
             <address>

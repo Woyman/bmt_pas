@@ -17,11 +17,11 @@ date_default_timezone_set('Asia/Jakarta');*/
 			}
 			else { 
 				include("layout/header.php");
+				include("layout/nav.php");
 					if($page=='home')
 					{
 						include("layout/cover.php");
 					} 
-			    include("layout/nav.php");
 				include("pages/$page.php"); 	 
 				include("layout/footer.php");	
 				include("layout/script.php");	
