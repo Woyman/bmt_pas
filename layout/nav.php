@@ -12,7 +12,7 @@
             <div class="navigation">
               <nav>
                 <ul class="nav topnav">
-                  <li class="dropdown active">
+                  <li <?php if($page == 'home' ){echo "class='active' ";} ?> >
                     <a href="index.php">Home</a>
                   </li>
                   <li>
@@ -21,7 +21,7 @@
                   <li>
                     <a href="#">Gallery</a>
                   </li>
-                  <li>
+                  <li <?php if($page == 'profile' ){echo "class='active' ";} ?> >
                     <a href="index.php?page=profile">Profil & Kontak Kami</a>
                   </li>
                 </ul>
