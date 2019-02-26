@@ -142,6 +142,7 @@ header .navbar .brand.logo {
 
 .navbar ul.topnav {
   float: right;
+  margin-right: 50px;
 }
 
 .navbar .nav>li>a {

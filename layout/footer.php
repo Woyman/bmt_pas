@@ -3,41 +3,31 @@
       <div class="row">
         <div class="span4">
           <div class="widget">
-            <h5>Browse pages</h5>
-            <ul class="regular">
-              <li><a href="#">Work for us</a></li>
-              <li><a href="#">Creative process</a></li>
-              <li><a href="#">Case study</a></li>
-              <li><a href="#">Scaffold awwards</a></li>
-              <li><a href="#">Meet the team</a></li>
-            </ul>
+            <h4>Produk & Layanan</h4>
+              <ul class="regular">
+                <li><a href="#">Tabungan Simbah</a></li>
+                <li><a href="#">Pembiayaan</a></li>
+              </ul>
           </div>
         </div>
-        <div class="span4">
-          <div class="widget">
-            <h5>Recent blog posts</h5>
-            <ul class="regular">
-              <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-              <li><a href="#">Mea malis nominavi insolens ut</a></li>
-              <li><a href="#">Minim timeam has no aperiri sanctus ei mea per pertinax</a></li>
-              <li><a href="#">Te malorum dignissim eos quod sensibus</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="span4">
-          <div class="widget">
-            <!-- logo -->
-            <a class="brand logo" href="index.html">
-							<img src="assets/logo-bmt-kotak.jpg" alt="" width="150">
-						</a>
-            <!-- end logo -->
+        <div class="span3">
+          <a class="brand logo" href="index.html">
+              <img src="assets/logo-bmt-kotak.jpg" alt="" width="150">
+            </a>
+            
             <address>
-							<strong>BMT Projo Artha Sejahtera (PAS)</strong><br>
-							 Jl. Kh. MAS Mansyur, Bejen, <br>
-							 Bantul, Kec. Bantul, Bantul, <br>
+              <strong>BMT Projo Artha Sejahtera (PAS)</strong><br>
+               Jl. Kh. MAS Mansyur, Bejen, <br>
+               Bantul, Kec. Bantul, Bantul, <br>
                Daerah Istimewa Yogyakarta 55711<br>
-							<abbr title="Phone">CP:</abbr> (0274) 367798
-						</address>
+              <abbr title="Phone">CP:</abbr> (0274) 367798
+            </address>
+        </div>
+        <div class="span4">
+          <div class="widget">
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.0280437979045!2d110.32969391491572!3d-7.8921347807002356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a55f7e968a097%3A0x75bfbb7844b80d21!2sBMT+Projo+Artha+Sejahtera+(PAS)!5e0!3m2!1sen!2sid!4v1550831318438" width="400" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+
           </div>
         </div>
       </div>

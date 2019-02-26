@@ -6,9 +6,9 @@
             <p>
               Proses Cepat, dan Angsuran Terjangkau
             </p>
-        </div>
+        </div>  
 
-      <div class="row">
+      <div class="row" style="border-bottom: solid 5px #94c045; padding-bottom: 50px;">
         <div class="span3 features">
           <i class="icon-circled icon-briefcase icon-48 left"></i>
           <h4 class="mt-2">Pembiayaan Produktif</h4>
@@ -50,7 +50,7 @@
           <!-- <a href="#">Learn more</a> -->
         </div>
       </div>
-      <div class="row">
+      <!-- <div class="row">
         <div class="span12">
           <div class="tagline centered">
             <div class="row">
@@ -70,114 +70,67 @@
               </div>
             </div>
           </div>
-          <!-- end tagline -->
+          
         </div>
-      </div>
+      </div> -->
       <div class="row">
-        <div class="home-posts">
-          <div class="span12">
-            <h3>Recent blog posts</h3>
+          <div class="centered" style="margin: 50px">
+            <h3>Gallery Foto Kegiatan BMT PAS</h3>
           </div>
-          <div class="span3">
-            <div class="post-image">
-              <a href="post_right_sidebar.html">
-					<img src="assets/img/dummies/blog1.jpg" alt="">
-					</a>
-            </div>
-            <div class="entry-meta">
-              <a href="#"><i class="icon-square icon-48 icon-pencil left"></i></a>
-              <span class="date">Sep 17 <br>
-					2013</span>
-            </div>
-            <!-- end .entry-meta -->
-            <div class="entry-body">
-              <a href="post_right_sidebar.html">
-                <h5 class="title">This is a standard post</h5>
-              </a>
-              <p>
-                Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa.
-              </p>
-            </div>
-            <!-- end .entry-body -->
-            <div class="clear">
-            </div>
-          </div>
-          <div class="span3">
-            <div class="post-image">
-              <a href="#"><img src="assets/img/dummies/blog2.jpg" alt=""></a>
-            </div>
-            <div class="entry-meta">
-              <a href="#"><i class="icon-square icon-48 icon-pencil left"></i></a>
-              <span class="date">Sep 17 2013</span>
-            </div>
-            <!-- end .entry-meta -->
-            <div class="entry-body">
-              <a href="post_right_sidebar.html">
-                <h5 class="title">Example post image format</h5>
-              </a>
-              <p>
-                Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa.
-              </p>
-            </div>
-            <!-- end .entry-body -->
-            <div class="clear">
-            </div>
-          </div>
-          <div class="span3">
-            <div class="post-image">
-              <a href="#"><img src="assets/img/dummies/blog2.jpg" alt=""></a>
-            </div>
-            <div class="entry-meta">
-              <a href="#"><i class="icon-square icon-48 icon-facetime-video left"></i></a>
-              <span class="date">Sep 17 2011</span>
-            </div>
-            <!-- end .entry-meta -->
-            <div class="entry-body">
-              <a href="post_right_sidebar.html">
-                <h5 class="title">Amazing video post format</h5>
-              </a>
-              <p>
-                Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.
-              </p>
-            </div>
-            <!-- end .entry-body -->
-            <div class="clear">
-            </div>
-          </div>
-          <div class="span3">
-            <div class="post-slider">
-              <!-- start flexslider -->
-              <div class="flexslider">
-                <ul class="slides">
-                  <li>
-                    <a href="post_right_sidebar.html"><img src="assets/img/dummies/work1.jpg" alt=""></a>
-                  </li>
-                  <li>
-                    <a href="post_right_sidebar.html"><img src="assets/img/dummies/work2.jpg" alt=""></a>
-                  </li>
-                  <li>
-                    <a href="post_right_sidebar.html"><img src="assets/img/dummies/work3.jpg" alt=""></a>
-                  </li>
-                </ul>
+        <ul class="portfolio-area da-thumbs">
+          <li class="portfolio-item2" data-id="id-0" data-type="web">
+            <div class="span4">
+              <div class="thumbnail">
+                <div class="image-wrapp">
+                  <img src="assets/photo/kewrj.jpg" alt="Portfolio name" title="" />
+                  <article class="da-animate da-slideFromRight" style="display: block;">
+                    <h4>Kerja Sama Tabungan Pendidikan</h4>
+                    <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a>
+                    <span><a class="zoom" data-pretty="prettyPhoto" href="assets/photo/kewrj.jpg">
+            <i class="icon-rounded icon-48 icon-zoom-in"></i>
+            </a></span>
+                  </article>
+                </div>
               </div>
-              <!-- end flexslider -->
             </div>
-            <div class="entry-meta">
-              <a href="#"><i class="icon-square icon-48 icon-picture left"></i></a>
-              <span class="date">Sep 17 2011</span>
+          </li>
+          <li class="portfolio-item2" data-id="id-0" data-type="web">
+            <div class="span4">
+              <div class="thumbnail">
+                <div class="image-wrapp">
+                  <img src="assets/photo/mitraloyal.jpg" alt="Portfolio name" title="" />
+                  <article class="da-animate da-slideFromRight" style="display: block;">
+                    <h4>Mitra Loyal BMT PAS</h4>
+                    <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a>
+                    <span><a class="zoom" data-pretty="prettyPhoto" href="assets/photo/mitraloyal.jpg">
+            <i class="icon-rounded icon-48 icon-zoom-in"></i>
+            </a></span>
+                  </article>
+                </div>
+              </div>
             </div>
-            <!-- end .entry-meta -->
-            <div class="entry-body">
-              <a href="post_right_sidebar.html">
-                <h5 class="title">Slider post format with flexslider</h5>
-              </a>
-              <p>
-                Lorem ipsum dolor sit amet nec, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.
-              </p>
+          </li>
+          <li class="portfolio-item2" data-id="id-0" data-type="brand">
+            <div class="span4">
+              <div class="thumbnail">
+                <div class="image-wrapp">
+                  <img src="assets/photo/pelatihanmitra.jpg" alt="Portfolio name" title="" />
+                  <article class="da-animate da-slideFromRight" style="display: block;">
+                    <h4>Pelatihan Mitra</h4>
+                    <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a>
+                    <span><a class="zoom" data-pretty="prettyPhoto" href="assets/photo/pelatihanmitra.jpg">
+            <i class="icon-rounded icon-48 icon-zoom-in"></i>
+            </a></span>
+                  </article>
+                </div>
+              </div>
             </div>
-            <!-- end .entry-body -->
-          </div>
+          </li>
+        </ul>
+
+        <div style="float: right; margin-bottom: 30px;">
+            <a href="#">Lihat Gallery >></a>
         </div>
+
       </div>
-    </div>
   </section>

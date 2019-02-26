@@ -15,9 +15,14 @@
                   <li <?php if($page == 'home' ){echo "class='active' ";} ?> >
                     <a href="index.php">Home</a>
                   </li>
-                  <li>
-                    <a href="#">Produk & Layanan</a>
-                  </li>
+                <li class="dropdown">
+                  <a href="#">Produk & Layanan</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
+                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
+                    <li><a href="index.php?page=pembiayaan">Pembiayaan</a></li>
+                  </ul>
+                </li>
                   <li>
                     <a href="#">Gallery</a>
                   </li>
