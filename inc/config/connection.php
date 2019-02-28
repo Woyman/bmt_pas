@@ -1,7 +1,7 @@
 <?php 
 
 
-$dbname = "hawahuholidayjogja";
+$dbname = "bmtpas_db";
 $user = "root";
 $psw = "";
 

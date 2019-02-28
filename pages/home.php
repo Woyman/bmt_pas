@@ -1,3 +1,8 @@
+<?php 
+    $qGetGallerGrouped = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan GROUP BY gallery.id_kegiatan";
+
+?>
+
 <section id="maincontent">
     <div class="container">
 
@@ -78,15 +83,22 @@
             <h3>Gallery Foto Kegiatan BMT PAS</h3>
           </div>
         <ul class="portfolio-area da-thumbs">
+          
+          <?php 
+            $getAllPhoto = mysqli_query($connect, $qGetGallerGrouped); 
+            while($photo = mysqli_fetch_assoc($getAllPhoto)){
+              $url = 'assets/photo/'.$photo['nama_img'];
+          ?>
+
           <li class="portfolio-item2" data-id="id-0" data-type="web">
             <div class="span4">
               <div class="thumbnail">
                 <div class="image-wrapp">
-                  <img src="assets/photo/kewrj.jpg" alt="Portfolio name" title="" />
+                  <img src="<?= $url; ?>" alt="Portfolio name" title="" />
                   <article class="da-animate da-slideFromRight" style="display: block;">
-                    <h4>Kerja Sama Tabungan Pendidikan</h4>
+                    <h4><?= $photo['nama_kegiatan'] ?></h4>
                     <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a>
-                    <span><a class="zoom" data-pretty="prettyPhoto" href="assets/photo/kewrj.jpg">
+                    <span><a class="zoom" data-pretty="prettyPhoto" href="<?= $url; ?>">
             <i class="icon-rounded icon-48 icon-zoom-in"></i>
             </a></span>
                   </article>
@@ -94,38 +106,9 @@
               </div>
             </div>
           </li>
-          <li class="portfolio-item2" data-id="id-0" data-type="web">
-            <div class="span4">
-              <div class="thumbnail">
-                <div class="image-wrapp">
-                  <img src="assets/photo/mitraloyal.jpg" alt="Portfolio name" title="" />
-                  <article class="da-animate da-slideFromRight" style="display: block;">
-                    <h4>Mitra Loyal BMT PAS</h4>
-                    <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a>
-                    <span><a class="zoom" data-pretty="prettyPhoto" href="assets/photo/mitraloyal.jpg">
-            <i class="icon-rounded icon-48 icon-zoom-in"></i>
-            </a></span>
-                  </article>
-                </div>
-              </div>
-            </div>
-          </li>
-          <li class="portfolio-item2" data-id="id-0" data-type="brand">
-            <div class="span4">
-              <div class="thumbnail">
-                <div class="image-wrapp">
-                  <img src="assets/photo/pelatihanmitra.jpg" alt="Portfolio name" title="" />
-                  <article class="da-animate da-slideFromRight" style="display: block;">
-                    <h4>Pelatihan Mitra</h4>
-                    <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a>
-                    <span><a class="zoom" data-pretty="prettyPhoto" href="assets/photo/pelatihanmitra.jpg">
-            <i class="icon-rounded icon-48 icon-zoom-in"></i>
-            </a></span>
-                  </article>
-                </div>
-              </div>
-            </div>
-          </li>
+
+        <?php } ?>
+          
         </ul>
 
         <div style="float: right; margin-bottom: 30px;">

@@ -42,8 +42,8 @@
         <div class="span9" style="margin-bottom: 60px"> 
           
             <h4><strong>Apa itu Tabungan Saham?</strong></h4>          
-            <p>Tabungan SAHAM adalah Simpanan Amal Jariyah Amanah Maslahah, merupakan salah satu produk tabungan/ simpanan KSPPS BMT PAS yang memberikan bagi hasil setara deposito (setara dengan 7% s/d 10% per tahun) dengan tujuan 2 (dua) keuntungan sekaligus.</p>  
-            <br>
+            <p>Tabungan SAHAM adalah Simpanan Amal Jariah Amanah Maslahah, merupakan salah satu produk tabungan KSPPS BMT PAS yang memberikan bagi hasil luar biasa besarnya setara dengan bagi hasil deposito (setara 6% s/d 8% per tahun). Tabungan SAHAM membantu  anggota/nasabah mendapatkan 2 (dua) keuntungan sekaligus, yaitu keuntungan akherat dan dunia</p>  
+            <p>LAZNAS BSM Umat adalah Lembaga Amil Zakat Nasional milik Bank Mandiri Syari’ah, salah satu perbankan syari’ah Nasional terbesar di Indonesia.</p><br>
             <h4><strong>Apa Keuntungan bagi Anggota/Nasabah?</strong></h4>
             <p>BMT merupakan gabungan 2 (dua) fungsi yaitu <b>Baitul Maal/Fungsi Sosial</b> yang mana boleh mengelola Zakat, Infaq, Shodaqoh dan Wakaf, sedangkan <b>Tamwil/Fungsi</b> Bisnis yang mengelola tabungan/simpanan, deposito, modal pernyertaan dan melayani Pembiyaan/pinjaman.</p>
 

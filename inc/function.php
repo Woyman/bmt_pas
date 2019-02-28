@@ -34,5 +34,17 @@ function batasiKalimat75($text)
 
 	return $varText;
 }
+function getNameFoto($file){
+
+		$nameArr = explode('.',$_FILES['foto']['name']);
+		$file_ext = end($nameArr); 
+		$filetmp = $_FILES['foto']['tmp_name'];
+		$filename = uniqid().".".$file_ext;
+		$file = array();
+		$file['filename'] = $filename;
+		$file['filetmp'] = $filetmp;
+
+		return $file;
+}
 
  ?>

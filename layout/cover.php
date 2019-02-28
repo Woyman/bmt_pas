@@ -27,7 +27,7 @@
                       </p>
                       <a class="btn btn-success" href="#">Learn more &raquo;</a>
                     </div>
-                    <img class="slider_img animate-in" src="assets/img/slides/sequence/img-1.png" alt="">
+                    <img class="slider_img animate-in" src="assets/photo/kewrj.jpg" alt="">
                   </li>
                   <!-- Layer 2 -->
                   <li>

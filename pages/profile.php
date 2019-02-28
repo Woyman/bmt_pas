@@ -27,7 +27,7 @@
 <section id="maincontent">
     <div class="container">
       <div class="row">
-        <div class="span12">
+        <div class="span9">
 
           <div class="centered">
             <img src="assets/logo-bmt.jpg" width="500px">
@@ -177,6 +177,15 @@
             Ei eam diam quando sapientem, ad pri enim vero eleifend. Eu everti inimicus his, te his nisl vocent. At rebum omnium blandit duo, malis scriptorem vis te. Altera mandamus eam ei, ex usu odio mutat debitis. At quo laudem iuvaret albucius, magna mundi honestatis
             pri ut, eos ei suas feugait. Vim tation dicant ornatus in.
           </p> -->
+        </div>
+        <div class="span3 bs-docs-sidebar affix" style="float: right; right: 100px;"> 
+           <address class="bs-docs-sidenav ">
+              <strong>BMT Projo Artha Sejahtera (PAS)</strong><br>
+               Jl. Kh. MAS Mansyur, Bejen, <br>
+               Bantul, Kec. Bantul, Bantul, <br>
+               Daerah Istimewa Yogyakarta 55711<br>
+              <abbr title="Phone">CP:</abbr> (0274) 367798
+            </address>
         </div>
       </div>
     </div>
