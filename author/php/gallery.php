@@ -6,33 +6,14 @@ include("../../inc/config/connection.php");
 
 if($actionPost == 'input-name')
 {	
-
-<<<<<<< HEAD
-	$query = "INSERT INTO kegiatan(nama_kegiatan) VALUES('$nameGallery')";
-	
-	$insert = mysqli_query($connect, $query);
-=======
 	$query = "INSERT INTO kegiatan(nama_kegiatan) VALUES('$nameGallery') ";
 	
 	$insert = mysqli_query($connect, $query) or die(mysqli_error($connect));
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
 
 	if($insert)
 	{
 		header('location: ../index.php?page=gallery&message=11');
 	}
-<<<<<<< HEAD
-}elseif($actionPost == 'inputgambar')
-{	
-	if($_FILES['foto']['size'] > 2000000){
-		header('location: ../index.php?page=gallery&message=20');
-	}
-
-=======
-	else{
-		// header('location: ../index.php?page=gallery&message=10');	
-	}
-}
 elseif($actionPost == 'inputgambar')
 {	
 	if($_FILES['foto']['size'] > 2000000 || $_FILES['foto']['error'] == '1'  ){
@@ -41,7 +22,7 @@ elseif($actionPost == 'inputgambar')
 
 	}
 		// print_r($_FILES['foto']);
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
+
 	$file = getNameFoto($_FILES['foto']);
 	$filename = $file['filename'];
 	$filetmp = $file['filetmp'];
@@ -53,8 +34,7 @@ elseif($actionPost == 'inputgambar')
 
 	header('location: ../index.php?page=gallery&message=21');
 }
-<<<<<<< HEAD
-=======
+
 elseif($actionGet == 'delete-img')
 {
 	$query = "DELETE FROM gallery WHERE id_gallery = '$idGet' ";
@@ -73,7 +53,7 @@ elseif($actionPost == 'deleteNameGallery' )
 	echo '1';
 
 }
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
+
 
 	
 ?>

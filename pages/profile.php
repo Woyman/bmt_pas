@@ -178,11 +178,7 @@
             pri ut, eos ei suas feugait. Vim tation dicant ornatus in.
           </p> -->
         </div>
-<<<<<<< HEAD
-        <div class="span3 bs-docs-sidebar affix" style="float: right; right: 100px;"> 
-=======
         <div class="span3 bs-docs-sidebar affix" style="float: right; right: 120px;"> 
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
            <address class="bs-docs-sidenav ">
               <strong>BMT Projo Artha Sejahtera (PAS)</strong><br>
                Jl. Kh. MAS Mansyur, Bejen, <br>
