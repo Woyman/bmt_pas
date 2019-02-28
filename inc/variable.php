@@ -17,35 +17,39 @@ $actionGet = $_GET["action"] ;
 $actionPost = $_POST["action"];
 $c = $_POST['check'];
 
+$message = $_GET['message'];
 //variable admin user
-$user_login = $_POST['username_login'];
-$psw_login = md5($_POST['password_login']);
-  
-
-//destination punya var 
-$dst_name = $_POST['name_dst'];
-$dst_location = $_POST['location_dst'];
-$dst_desc = $_POST['desc_dst'];
-$dst_desc_singkat = $_POST['desc_dst_singkat'];
- 
-//general setting
-$site_name = $_POST['situs_name'];
-$site_desc = $_POST['situs_desc'];
-$site_corp_name = $_POST['corp_name'];
-$site_corp_address = $_POST['corp_address'];
-$site_email = $_POST['corp_email'];
-$site_phone = $_POST['no_telp'];
-$site_WA = $_POST['no_WA'];
-$site_logo = $_post['logo_web'];
-
-//travel
-$travel_name = $_POST['name_paket'];
-$travel_highlicht = $_POST['highlight'];
-$travel_itenary = $_POST['itenary'];
-$travel_facility = $_POST['facility'];
-$travel_idr = $_POST['price_idr'];
-$travel_dollar = $_POST['price_dollar'];
-
-
+$user_login = $_POST['admin'];
+$psw_login = $_POST['admin'];
 	
+//nama gallery 
+$nameGallery = addslashes($_POST['nama-baru']);
+
+// gallery
+$id_kegiatan = $_POST['namaGambar'];
+
+
+// message
+if($message == '11')
+{
+	$alert = 'Nama Gallery Berhasil Ditambahkan';
+}
+if($message == '10')
+{
+	$alert = 'Gagal Menambahkan Nama Gallery';
+}
+elseif($message == '20')
+{
+	$alert = 'Ukuran gambar terlalu besar. Max 2mb';
+}
+elseif($message == '21')
+{
+	$alert = 'Foto/gambar berhasil ditambahkan.';
+}
+elseif($message == '22')
+{
+	$alert = 'Foto/gambar sudah dihapus.';
+}
+
+
 ?>

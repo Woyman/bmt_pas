@@ -20,7 +20,9 @@
                Jl. Kh. MAS Mansyur, Bejen, <br>
                Bantul, Kec. Bantul, Bantul, <br>
                Daerah Istimewa Yogyakarta 55711<br>
-              <abbr title="Phone">CP:</abbr> (0274) 367798
+              <abbr title="Phone">CP:</abbr> (0274) 367798 <br>
+               WA: 081578818226 
+
             </address>
         </div>
         <div class="span4">

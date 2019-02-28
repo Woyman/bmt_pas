@@ -40,3 +40,66 @@
 <body>
 
   <!-- <img src="assets/logo-bmt.jpg"> -->
+
+<section id="subintro">
+    <div class="jumbotron subhead" id="overview">
+      <div class="container">
+        <div class="row">
+          <div class="span12">
+            <div class="centered">
+              <h3>Login BMT PAS sebagai Author</h3>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+<section id="maincontent">
+    <div class="container">
+      <div class="row">
+        <div class="span12">
+          <div class="span5" style="margin-right: auto; margin-left: auto; float: unset;">
+            
+              <div class="well">
+                
+                <form action="author/php/login-author.php" method="post">
+                  <div class="form-group span12">
+                    <label>Username</label>
+                    <input type="text" name="admin" class="form-control">
+                  </div>
+                  <div class="form-group span12">
+                    <label>Password</label>
+                    <input type="password" name="password" class="form-control">
+                  </div>
+
+                  <div class="form-group span12">
+                    <button type="submit" class="btn btn-info">Login</button>
+                  </div>
+
+                </form>
+
+              </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- JavaScript Library Files -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.easing.js"></script>
+  <script src="assets/js/google-code-prettify/prettify.js"></script>
+  <script src="assets/js/modernizr.js"></script>
+  <script src="assets/js/bootstrap.js"></script>
+  <script src="assets/js/jquery.elastislide.js"></script>
+  <script src="assets/js/sequence/sequence.jquery-min.js"></script>
+  <script src="assets/js/sequence/setting.js"></script>
+  <script src="assets/js/jquery.prettyPhoto.js"></script>
+  <script src="assets/js/application.js"></script>
+  <script src="assets/js/jquery.flexslider.js"></script>
+  <script src="assets/js/hover/jquery-hover-effect.js"></script>
+  <script src="assets/js/hover/setting.js"></script>
+
+  <!-- Template Custom JavaScript File -->
+  <script src="assets/js/custom.js"></script>

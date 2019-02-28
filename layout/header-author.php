@@ -11,19 +11,19 @@
   
   <!-- styles -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700" rel="stylesheet">
-  <link href="assets/css/bootstrap.css" rel="stylesheet">
-  <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
-  <link href="assets/css/docs.css" rel="stylesheet">
-  <link href="assets/css/prettyPhoto.css" rel="stylesheet">
-  <link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
-  <link href="assets/css/flexslider.css" rel="stylesheet">
-  <link href="assets/css/sequence.css" rel="stylesheet">
-  <link href="assets/css/style.css" rel="stylesheet">
-  <link href="assets/color/default.css" rel="stylesheet">
-
+  <link href="../assets/css/bootstrap.css" rel="stylesheet">
+  <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
+  <link href="../assets/css/docs.css" rel="stylesheet">
+  <link href="../assets/css/prettyPhoto.css" rel="stylesheet">
+  <link href="../assets/js/google-code-prettify/prettify.css" rel="stylesheet">
+  <link href="../assets/css/flexslider.css" rel="stylesheet">
+  <link href="../assets/css/sequence.css" rel="stylesheet">
+  <link href="../assets/css/style.css" rel="stylesheet">
+  <link href="../assets/color/default.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
   <!-- fav and touch icons -->
-  <link rel="shortcut icon" href="assets/ico/logo-bmt-icon.png">
-  <link href="assets/ico/logo-bmt-icon.png" rel="icon" type="image/x-icon">
+  <link rel="shortcut icon" href="../assets/ico/logo-bmt-icon.png">
+  <link href="../assets/ico/logo-bmt-icon.png" rel="icon" type="image/x-icon">
  <!--  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
