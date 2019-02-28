@@ -22,6 +22,39 @@
       // $('#daftarNama').scrollspy();
         $('#selectName').select2();
 
+<<<<<<< HEAD
     });
+=======
+        $('.delte').on('click', function(){
+
+          var id = $(this).attr('data-id');
+
+          $('#deleteNameGallery').modal('show');
+
+          $('.yakin').click(function(){
+
+          var data = 'id='+id+'&action=deleteNameGallery';
+             $.ajax({
+                type:"post",
+                url:"php/gallery.php",
+                data: data,    // multiple data sent using ajax
+                success: function (respon) {
+
+                  if(respon =='1')
+                  {
+                    alert('Nama Galery berhasil dihapus');
+                    window.location.href = '?page=gallery';
+                  }
+                }
+              });
+
+          });
+
+        });
+
+    });
+
+
+>>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
     
   </script>

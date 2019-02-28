@@ -448,6 +448,7 @@ ul.filter li.active a {
   position: relative;
   padding: 0;
   overflow: hidden;
+  min-height: 255px;
   border: nonw;
 }
 

@@ -1,10 +1,6 @@
 <?php
    $qGetNGallery = "SELECT * FROM kegiatan";
-<<<<<<< HEAD
-   $qgetAllPhoto = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan";
-=======
    $qgetAllPhoto = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan ORDER BY id_gallery DESC";
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
    // $GetNGallery = mysqli_query($connect, $qGetNGallery);
 ?>
 
@@ -89,13 +85,10 @@
                   if($message == '11' && isset($alert))
                   {
                     echo "<div class='alert alert-success'> <button type='button' class='close' data-dismiss='alert'>×</button>$alert</div>";
-<<<<<<< HEAD
-=======
                   }
                   elseif($message == '10' && isset($alert))
                   {
                      echo "<div class='alert alert-danger'> <button type='button' class='close' data-dismiss='alert'>×</button>$alert</div>";
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
                   }  
                 ?>
 
@@ -128,11 +121,7 @@
                       ?>
                       <tr>
                         <td><?= $NGallery['nama_kegiatan']; ?></td>
-<<<<<<< HEAD
-                        <td></td>
-=======
                         <td><a href="#myModal" role="button" data-toggle="modal" data-id="<?= $NGallery['id_kegiatan']; ?>" class='label label-important delte'>Hapus </a></td>
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
                       </tr>
 
                       <?php 
@@ -149,9 +138,6 @@
 
       <!-- Gallery foto  -->
       <div class="row">
-<<<<<<< HEAD
-      
-=======
         
         <?php 
 
@@ -162,7 +148,6 @@
 
          ?>
 
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
         <ul class="portfolio-area da-thumbs">
 
           <?php 
@@ -180,14 +165,9 @@
                     <h4><?= $photo['nama_kegiatan'] ?></h4>
                     <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a>
                     <span><a class="zoom" data-pretty="prettyPhoto" href="<?= $url; ?>">
-<<<<<<< HEAD
-            <i class="icon-rounded icon-48 icon-zoom-in"></i>
-            </a></span>
-=======
                           <i class="icon-rounded icon-48 icon-zoom-in"></i></a>
                     </span>
                     <a href="php/gallery.php?id=<?= $photo['id_gallery'];?>&action=delete-img"><i class="icon-rounded icon-48 icon-remove" title="Hapus Foto"></i></a>
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
                   </article>
                 </div>
               </div>
@@ -200,8 +180,6 @@
 
         </ul>
       </div>
-<<<<<<< HEAD
-=======
 
       <div id="deleteNameGallery" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-header">
@@ -216,7 +194,6 @@
           <button class="btn btn-success yakin">Yakin dan Hapus</button>
         </div>
       </div>
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
       <!-- <div class="row">
         <div class="span12">
           <div class="pagination">

@@ -58,12 +58,12 @@
           </p>
 
           <ol>
-            <li>Pada tanggal 20 Mei 2006, tim pendiri mengumpulkan 20 Orang anggota untuk rapat pembentukan serta menentukan pengurus. Anggota itu terdiri dari ; Amir Syarifudin, Andi Maryanto, Slamet Raharjo, Muh. Alwi Suwignyo, Bima Sakayo, Mulyono, Agus Effendi, Subaryanto, Rahmadi, Imam Bukhori, Sugiyarto, Triadmoko, Muh. Dhananto, Slamet S,Ag, Agus Sumartono, Jupriyanto, Arif Haryanto, Arif Rahman Hakim, Tyas Wening D, Mein Andreas.</li>
-            <li>Pada tanggal 20 Mei 2006 terbentuk pengurus dengan komposisi Ketua ; Amir Syarifudin, Sekretaris Slamet Raharjo, Bendahara Tyas Wening D.</li>
-            <li>Pada tanggal 27 Mei 2006, Gempa Bumi meratakan tanah di Kabupaten Bantul, sehingga BMT PAS vakum beberapa bulan.</li>
-            <li>Bulan Juli 2006 BMT PAS mulai beroperasi, pengurus menetapkan Andi Maryanto, Sulastri, sudartini dan Slamet sebagai pengelola dengan berkantor di Jl. K.H Mas Mansyur 122 Bejen Bantul.</li>
-            <li>Kemudian pada bulan September 2006, Pengurus mengajukan badan hukum koperasi ke Dinas Koperasi Bantul dan di adakan Rapat Anggota pertama yang dihadiri oleh anggota dan utusan Dinas Koperasi (Bapak Petrus) yang memberikan pengarahan tentang Koperasi.</li>
-            <li>Pada tanggal 20 Oktober 2006, mendapatkan badan hukum dari Dinas Kopersasi sehingga sejak saat itulah namanya Koperasi Jasa Keuangan Syari’ah BMT Projo Artha Sejahtera resmi berbadan hukum hingga kini nomor badan hukum KJKS BMT Projo Artha Sejahtera adalah 086/ BH/ X/ 2006, dengan alamat kantor Jl. K.H.Mas Mansyur No. 122 Bejen Bantul.</li>
+            <li>Pada tanggal 20 Mei 1206, tim pendiri mengumpulkan 20 Orang anggota untuk rapat pembentukan serta menentukan pengurus. Anggota itu terdiri dari ; Amir Syarifudin, Andi Maryanto, Slamet Raharjo, Muh. Alwi Suwignyo, Bima Sakayo, Mulyono, Agus Effendi, Subaryanto, Rahmadi, Imam Bukhori, Sugiyarto, Triadmoko, Muh. Dhananto, Slamet S,Ag, Agus Sumartono, Jupriyanto, Arif Haryanto, Arif Rahman Hakim, Tyas Wening D, Mein Andreas.</li>
+            <li>Pada tanggal 20 Mei 1206 terbentuk pengurus dengan komposisi Ketua ; Amir Syarifudin, Sekretaris Slamet Raharjo, Bendahara Tyas Wening D.</li>
+            <li>Pada tanggal 27 Mei 1206, Gempa Bumi meratakan tanah di Kabupaten Bantul, sehingga BMT PAS vakum beberapa bulan.</li>
+            <li>Bulan Juli 1206 BMT PAS mulai beroperasi, pengurus menetapkan Andi Maryanto, Sulastri, sudartini dan Slamet sebagai pengelola dengan berkantor di Jl. K.H Mas Mansyur 122 Bejen Bantul.</li>
+            <li>Kemudian pada bulan September 1206, Pengurus mengajukan badan hukum koperasi ke Dinas Koperasi Bantul dan di adakan Rapat Anggota pertama yang dihadiri oleh anggota dan utusan Dinas Koperasi (Bapak Petrus) yang memberikan pengarahan tentang Koperasi.</li>
+            <li>Pada tanggal 20 Oktober 1206, mendapatkan badan hukum dari Dinas Kopersasi sehingga sejak saat itulah namanya Koperasi Jasa Keuangan Syari’ah BMT Projo Artha Sejahtera resmi berbadan hukum hingga kini nomor badan hukum KJKS BMT Projo Artha Sejahtera adalah 086/ BH/ X/ 1206, dengan alamat kantor Jl. K.H.Mas Mansyur No. 122 Bejen Bantul.</li>
             <li>Setelah badan hukum keluar, formasi pengurus dan pengelola diganti dengan harapan lebih fokus dan berkembang. Dengan komposisi Pengurus (Ketua ; Bima Sakayo, Sekretaris Tyas Wening D, Bendahara Slamet Raharjo), Pengelola ( Andi Maryanto, Suroso, Anton Sulistiyono dan Siti Rohani).</li>
           </ol>
 
@@ -72,28 +72,31 @@
 
           <table>
             <tr>
-              <td width="200">Nama Koperasi</td>
-              <td>: BMT Projo Artha Sejahtera</td>
+              <td width="120">Nama Koperasi</td>
+              <td>: KSPPS BMT Projo Artha Sejahtera</td>
             </tr>
              <tr>
-              <td width="200">Tanggal Berdiri</td>
-              <td>: 20 Mei 2006</td>
+              <td width="120">Tanggal Berdiri</td>
+              <td>: 20 Mei 1206</td>
             </tr>
             <tr>
-              <td width="200">Alamat Koperasi</td>
+              <td width="120">Alamat Koperasi</td>
               <td>: Jl. KHA Mas Mansyur No. 122 RT 03 Bejen, Bantul, Kab. Bantul, DI Yogyakarta</td>
             </tr>
             <tr>
-              <td width="200">Telepon</td>
+              <td width="120">Telepon</td>
               <td>: 0274-367798</td>
             </tr>
             <tr>
-              <td width="200">Hp</td>
+              <td width="120">Hp</td>
               <td>: 081578818226</td>
             </tr>
             <tr>
-              <td width="200">Nomer & Tanggal Pengesahan Badan Hukum</td>
-              <td>: 086/BH/X/2006, 20 Oktober 2006</td>
+              <td width="120">Badan Hukum No.</td>
+              <td>: 000660/PAD/M.KUKM.2/VI/2018 <br>
+                &nbsp; Perubahan dari Badan Hukum: 086/BH/X/2006
+
+              </td> 
             </tr>
            <!--  <tr>
               <td>Susunan pengurus, pengawas, pengelola</td>
@@ -107,16 +110,16 @@
           <h5>Pengurus</h5>
           <table>
             <tr>
-              <td width="200">Ketua</td>
+              <td width="120">Ketua</td>
               <td>: H. Jupriyanto, S. Si</td>
             </tr>
             <tr>
-              <td width="200">Sekretaris</td>
+              <td width="120">Sekretaris</td>
               <td>: Andi Maryanto, S. E, S.H</td>
             </tr>
             <tr>
-              <td width="200">Bendahara</td>
-              <td>: Arifah Sri Sugiyanto, SE</td>
+              <td width="120">Bendahara</td>
+              <td>: Arifah Sri Sugiyanti, SE</td>
             </tr>
           </table>
           <br>
@@ -124,11 +127,11 @@
           <h6>Susunan Dewan Pengawas Syariah</h6>
           <table>
             <tr>
-              <td width="200">Ketua</td>
+              <td width="120">Ketua</td>
               <td>: H. Achmad Khudhori, Lc</td>
             </tr>
             <tr>
-              <td width="200">Anggota</td>
+              <td width="120">Anggota</td>
               <td>: Bima Sakayo, ST</td>
             </tr>
           </table>
@@ -136,11 +139,11 @@
           <h6>Susunan Dewan Pengawas Manajemen</h6>
           <table>
             <tr>
-              <td width="200">Ketua</td>
+              <td width="120">Ketua</td>
               <td>: Agus Effendi, S.E</td>
             </tr>
             <tr>
-              <td width="200">Anggota</td>
+              <td width="120">Anggota</td>
               <td>: Slamet Raharjo, S.Pd</td>
             </tr>
           </table>
@@ -151,21 +154,18 @@
 
           <table>
             <tr>
-              <td width="200">No. NPWP</td>
+              <td width="120">No. NPWP</td>
               <td>: 21.018.423.0-543.000</td>
             </tr>
             <tr>
-              <td width="200">No. HO</td>
+              <td width="120">No. HO</td>
               <td>: 660/DP/S/44/1/2011</td>
             </tr>
             <tr>
-              <td width="200">No. TDP</td>
-              <td>: 504/DP/PO/043/I/2008</td>
+              <td width="120">No. TDP</td>
+              <td>: 504/DP/PO/043/I/1208</td>
             </tr>
-             <tr>
-              <td width="200">Status Kantor</td>
-              <td>: Sewa</td>
-            </tr>
+            
           </table>
           <!--           
           <blockquote>
@@ -178,7 +178,11 @@
             pri ut, eos ei suas feugait. Vim tation dicant ornatus in.
           </p> -->
         </div>
+<<<<<<< HEAD
         <div class="span3 bs-docs-sidebar affix" style="float: right; right: 100px;"> 
+=======
+        <div class="span3 bs-docs-sidebar affix" style="float: right; right: 120px;"> 
+>>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
            <address class="bs-docs-sidenav ">
               <strong>BMT Projo Artha Sejahtera (PAS)</strong><br>
                Jl. Kh. MAS Mansyur, Bejen, <br>

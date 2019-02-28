@@ -23,7 +23,11 @@ $user_login = $_POST['admin'];
 $psw_login = $_POST['admin'];
 	
 //nama gallery 
+<<<<<<< HEAD
 $nameGallery = $_POST['nama-baru'];
+=======
+$nameGallery = addslashes($_POST['nama-baru']);
+>>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
 
 // gallery
 $id_kegiatan = $_POST['namaGambar'];
@@ -34,6 +38,13 @@ if($message == '11')
 {
 	$alert = 'Nama Gallery Berhasil Ditambahkan';
 }
+<<<<<<< HEAD
+=======
+if($message == '10')
+{
+	$alert = 'Gagal Menambahkan Nama Gallery';
+}
+>>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
 elseif($message == '20')
 {
 	$alert = 'Ukuran gambar terlalu besar. Max 2mb';
@@ -42,6 +53,13 @@ elseif($message == '21')
 {
 	$alert = 'Foto/gambar berhasil ditambahkan.';
 }
+<<<<<<< HEAD
+=======
+elseif($message == '22')
+{
+	$alert = 'Foto/gambar sudah dihapus.';
+}
+>>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
 
 
 ?>
