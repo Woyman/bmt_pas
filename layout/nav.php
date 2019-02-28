@@ -21,12 +21,12 @@
                     <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
                     <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
                     <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
-					<li><a href="index.php?page=pembiayaan-simbah">Pembiayaan Simbah</a></li>
-					<li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
+          					<li><a href="index.php?page=pembiayaan-simbah">Pembiayaan Simbah</a></li>
+          					<li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
                   </ul>
                 </li>
                   <li>
-                    <a href="#">Gallery</a>
+                    <a href="index.php?page=gallery">Gallery</a>
                   </li>
                   <li <?php if($page == 'profile' ){echo "class='active' ";} ?> >
                     <a href="index.php?page=profile">Profil & Kontak Kami</a>

@@ -1,5 +1,5 @@
 <?php
-   $qGetNGallery = "SELECT * FROM kegiatan";
+   // $qGetNGallery = "SELECT * FROM kegiatan";
    $qgetAllPhoto = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan ORDER BY id_gallery DESC";
    // $GetNGallery = mysqli_query($connect, $qGetNGallery);
 ?>
@@ -35,22 +35,13 @@
 
       <!-- Gallery foto  -->
       <div class="row">
-        
-        <?php 
-
-          if($message == '22' && isset($alert))
-          {
-            echo "<div class='alert alert-info'> <button type='button' class='close' data-dismiss='alert'>×</button>$alert</div>";
-          }
-
-         ?>
 
         <ul class="portfolio-area da-thumbs">
 
           <?php 
             $getAllPhoto = mysqli_query($connect, $qgetAllPhoto); 
             while($photo = mysqli_fetch_assoc($getAllPhoto)){
-              $url = '../assets/photo/'.$photo['nama_img'];
+              $url = 'assets/photo/'.$photo['nama_img'];
           ?>
 
           <li class="portfolio-item2" data-id="id-0" data-type="web">
@@ -60,11 +51,10 @@
                   <img src="<?= $url; ?>" alt="Portfolio name" title="" />
                   <article class="da-animate da-slideFromRight" style="display: block;">
                     <h4><?= $photo['nama_kegiatan'] ?></h4>
-                    <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a>
+                    <a href="index.php?page=detail-gallery&id=<?= $photo['id_kegiatan']; ?>"><i class="icon-rounded icon-48 icon-link"></i></a>
                     <span><a class="zoom" data-pretty="prettyPhoto" href="<?= $url; ?>">
                           <i class="icon-rounded icon-48 icon-zoom-in"></i></a>
                     </span>
-                    <a href="php/gallery.php?id=<?= $photo['id_gallery'];?>&action=delete-img"><i class="icon-rounded icon-48 icon-remove" title="Hapus Foto"></i></a>
                   </article>
                 </div>
               </div>

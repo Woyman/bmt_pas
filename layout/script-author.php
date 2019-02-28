@@ -22,9 +22,6 @@
       // $('#daftarNama').scrollspy();
         $('#selectName').select2();
 
-<<<<<<< HEAD
-    });
-=======
         $('.delte').on('click', function(){
 
           var id = $(this).attr('data-id');
@@ -53,8 +50,5 @@
         });
 
     });
-
-
->>>>>>> eb6b73cd4e131059914a61fba7372d7882636584
     
   </script>
