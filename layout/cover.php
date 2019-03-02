@@ -18,6 +18,9 @@
                 <ul>
                   <!-- Layer 1 -->
                   <li>
+                    <img class="slider_img animate-in" src="assets/img/cover/1.jpg" alt="">
+                  </li>
+                  <!-- <li>
                     <div class="info animate-in">
                       <h2>Bootstrap based</h2>
                       <br>
@@ -28,33 +31,8 @@
                       <a class="btn btn-success" href="#">Learn more &raquo;</a>
                     </div>
                     <img class="slider_img animate-in" src="assets/photo/kewrj.jpg" alt="">
-                  </li>
+                  </li> -->
                   <!-- Layer 2 -->
-                  <li>
-                    <div class="info">
-                      <h2>Smart and fresh</h2>
-                      <br>
-                      <h3>Rich of features</h3>
-                      <p>
-                        Lorem ipsum dolor sit amet, munere commodo ut nam, quod volutpat in per. At nec case iriure, consul recteque nec et.
-                      </p>
-                      <a class="btn btn-success" href="#">Learn more &raquo;</a>
-                    </div>
-                    <img class="slider_img" src="assets/img/slides/sequence/img-2.png" alt="">
-                  </li>
-                  <!-- Layer 3 -->
-                  <li>
-                    <div class="info">
-                      <h2>Far from ugly</h2>
-                      <br>
-                      <h3>Latest technology</h3>
-                      <p>
-                        Lorem ipsum dolor sit amet, munere commodo ut nam, quod volutpat in per. At nec case iriure, consul recteque nec et.
-                      </p>
-                      <a class="btn btn-success" href="#">Learn more &raquo;</a>
-                    </div>
-                    <img class="slider_img" src="assets/img/slides/sequence/img-3.png" alt="">
-                  </li>
                 </ul>
               </div>
             </div>

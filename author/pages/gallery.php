@@ -54,7 +54,7 @@
               <div class="control-group">
                 <label>Foto/gambar</label>
                 <input type="file" name="foto" class="span3">
-                <small>*Ukuran gambar max. 2mb</small>
+                <small>*Ukuran gambar max. 500kb</small>
               </div>
               <div class="control-group">
                 <label>Masukkan Nama Foto/Gambar</label>
@@ -163,7 +163,7 @@
                   <img src="<?= $url; ?>" alt="Portfolio name" title="" />
                   <article class="da-animate da-slideFromRight" style="display: block;">
                     <h4><?= $photo['nama_kegiatan'] ?></h4>
-                    <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a>
+                    <!-- <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a> -->
                     <span><a class="zoom" data-pretty="prettyPhoto" href="<?= $url; ?>">
                           <i class="icon-rounded icon-48 icon-zoom-in"></i></a>
                     </span>

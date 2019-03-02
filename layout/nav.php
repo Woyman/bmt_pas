@@ -6,7 +6,7 @@
         <div class="container">
           <div class="span12 centered">
             <!-- logo -->
-            <a class="brand logo" href="index.html"><img src="assets/logo-bmt.jpg" width="180"></a>
+            <a class="brand logo" href="index.php"><img src="assets/logo-bmt.jpg" width="180"></a>
             <!-- end logo -->
             <!-- top menu -->
             <div class="navigation">
@@ -19,10 +19,12 @@
                   <a href="#">Produk & Layanan</a>
                   <ul class="dropdown-menu">
                     <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
-                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
                     <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
+                    <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
+                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
+                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Simbah</a></li>
           					<li><a href="index.php?page=pembiayaan-simbah">Pembiayaan Simbah</a></li>
-          					<li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
+          					
                   </ul>
                 </li>
                   <li>

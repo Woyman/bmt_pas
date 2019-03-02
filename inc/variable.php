@@ -43,7 +43,7 @@ if($message == '10')
 
 elseif($message == '20')
 {
-	$alert = 'Ukuran gambar terlalu besar. Max 2mb';
+	$alert = 'Ukuran gambar terlalu besar. Max 500kb';
 }
 elseif($message == '21')
 {
