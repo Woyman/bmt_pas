@@ -1,6 +1,6 @@
 <?php
    // $qGetNGallery = "SELECT * FROM kegiatan";
-   $qgetAllPhoto = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan ORDER BY id_gallery DESC";
+   $qgetAllPhoto = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan GROUP BY gallery.id_kegiatan";
    // $GetNGallery = mysqli_query($connect, $qGetNGallery);
 ?>
 

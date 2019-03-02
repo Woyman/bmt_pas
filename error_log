@@ -1,0 +1,12 @@
+[01-Mar-2019 03:39:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'btma5353_userDB'@'localhost' (using password: YES) in /home/bmta5353/public_html/inc/config/connection.php on line 25
+[01-Mar-2019 03:39:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/author/php/gallery.php on line 11
+[01-Mar-2019 03:39:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/author/php/gallery.php on line 11
+[01-Mar-2019 03:40:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'btma5353_userDB'@'localhost' (using password: YES) in /home/bmta5353/public_html/inc/config/connection.php on line 25
+[01-Mar-2019 03:40:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/author/php/gallery.php on line 11
+[01-Mar-2019 03:40:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/author/php/gallery.php on line 11
+[01-Mar-2019 03:40:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'btma5353_userDB'@'localhost' (using password: YES) in /home/bmta5353/public_html/inc/config/connection.php on line 25
+[01-Mar-2019 03:40:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/author/php/gallery.php on line 11
+[01-Mar-2019 03:40:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/author/php/gallery.php on line 11
+[01-Mar-2019 03:40:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'btma5353_userDB'@'localhost' (using password: YES) in /home/bmta5353/public_html/inc/config/connection.php on line 25
+[01-Mar-2019 03:40:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/author/php/gallery.php on line 11
+[01-Mar-2019 03:40:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/author/php/gallery.php on line 11

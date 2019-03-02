@@ -5,8 +5,12 @@
           <div class="widget">
             <h4>Produk & Layanan</h4>
               <ul class="regular">
-                <li><a href="#">Tabungan Simbah</a></li>
-                <li><a href="#">Pembiayaan</a></li>
+                    <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
+                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
+                    <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
+                    <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
+                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
+                    <li><a href="index.php?page=pembiayaan-simbah">Pembiayaan Simbah</a></li>
               </ul>
           </div>
         </div>
@@ -16,7 +20,7 @@
             </a>
             
             <address>
-              <strong>BMT Projo Artha Sejahtera (PAS)</strong><br>
+              <strong>KSPPS BMT Projo Artha Sejahtera (PAS)</strong><br>
                Jl. Kh. MAS Mansyur, Bejen, <br>
                Bantul, Kec. Bantul, Bantul, <br>
                Daerah Istimewa Yogyakarta 55711<br>

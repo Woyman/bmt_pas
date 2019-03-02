@@ -179,12 +179,13 @@
           </p> -->
         </div>
         <div class="span3 bs-docs-sidebar affix" style="float: right; right: 120px;"> 
-           <address class="bs-docs-sidenav ">
-              <strong>BMT Projo Artha Sejahtera (PAS)</strong><br>
+           <address class="bs-docs-sidenav " style="padding: 10px;">
+              <strong>KSPPS BMT Projo Artha Sejahtera (PAS)</strong><br>
                Jl. Kh. MAS Mansyur, Bejen, <br>
                Bantul, Kec. Bantul, Bantul, <br>
                Daerah Istimewa Yogyakarta 55711<br>
-              <abbr title="Phone">CP:</abbr> (0274) 367798
+              <abbr title="Phone">CP:</abbr> (0274) 367798 <br>
+              WA: 081578818226 
             </address>
         </div>
       </div>
