@@ -1,5 +1,5 @@
 <?php 
-    $qGetGallerGrouped = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan GROUP BY gallery.id_kegiatan limit 6";
+    $qGetGallerGrouped = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan GROUP BY gallery.id_kegiatan ORDER BY gallery.id_kegiatan DESC limit 6";
 
 ?>
 

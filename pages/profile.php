@@ -68,6 +68,25 @@
           </ol>
 
           <br><br>
+
+          <div class="centered"><h4>Visi Dan Misi Kami:</h4></div>
+          <div class="span12">
+            <div class="span3 well">
+              <h5>VISI</h5>
+              <p>Visi kami ialah menjadi koperasi Syariah terbaik di Kabupaten Bantul </p>
+            </div>
+            <div class="span3 well">
+              <h5>MISI</h5>
+              <ol>
+                <li>Menciptakan kesejahteraan bagi para anggota yang berkesinambungan</li>
+                <li> Berdaya guna sebagai mitra strategis dan terpercaya bagi anggota</li>
+                <li>Berkontribusi dalam perkembangan perkoperasian di Indonesia</li>
+                <li>Mengelola Koperasi dan unit usaha secara profesional dengan menerapkan prinsip "Good Corporate Governance"</li>
+              </ol>
+            </div>
+            
+          </div>
+
           <h4>Kelembagaan</h4>
 
           <table>
