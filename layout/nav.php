@@ -15,7 +15,10 @@
                   <li <?php if($page == 'home' ){echo "class='active' ";} ?> >
                     <a href="index.php">Home</a>
                   </li>
-                  <li class="dropdown">
+                  <li class="dropdown 
+                    <?php if( $page == 'pembiayaan-simbah' || $page == 'tabungan-saham' || $page == 'tabungan-qurban' || $page == 'tabungan-thr' || $page == 'tabungan-tasbih' || $page == 'tabungan-tasbih' || $page == 'tabungan-ibadah'  )
+                    {echo "active ";} ?> ?>
+                  ">
                     <a href="#">Produk & Layanan</a>
                     <ul class="dropdown-menu">
             					<li><a href="index.php?page=pembiayaan-simbah">Pembiayaan Simbah </a></li>
@@ -25,7 +28,8 @@
                           <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
                           <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
                           <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
-                          <li><a href="index.php?page=tabungan-tasbih">Tabungan Simbah</a></li>
+                          <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
+                          <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
                         </ul>
                       </li>
                     </ul>

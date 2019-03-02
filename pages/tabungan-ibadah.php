@@ -47,12 +47,13 @@
                     <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
                     <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
                     <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
-                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Simbah</a></li>
+                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
+                    <li><a href="index.php?page=tabungan-ibadah">Tabungan Simbah</a></li>
                     <li><a href="index.php?page=pembiayaan-simbah">Pembiayaan Simbah</a></li>
-					<li><a href="index.php?page=tabungan-ibadah">Tabungan Simbah</a></li>
+					         <li><a href="index.php?page=tabungan-ibadah">Tabungan Simbah</a></li>
               </ul>
             </div>
-          </aside>
+          </aside> 
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
@@ -60,25 +61,21 @@
               <p>IBADAH adalah Investasi Berjangka Mudharobah, merupakan salah satu produk tabungan berjangka/deposito
 			  KSPPS BMT PAS yang membantu  anggota/nasabah mendapatkan bagi hasil lebih tinggi dari pada tabungan berjangka/deposito di bank, dan sistem penyetoran serta penarikannya hanya bisa dilakukan setelah melewati waktu tertentu.
 			  Dalam Islam akad mudharabah untuk produk tabungan berjangka/deposito IBADAH KSPPS BMT PAS 
-			  dibolehkan sebab bertujuan untuk saling membantu antara investor (rab al mal) dengan pengelola bisnis (mudharib). Demikian dikatakan oleh Ibn Rusyd (w.595/1198) dari madzhab Maliki bahwa kebolehan akad mudharabah merupakan suatu kelonggaran yang khusus.
-</p>
+			  dibolehkan sebab bertujuan untuk saling membantu antara investor (rab al mal) dengan pengelola bisnis (mudharib). Demikian dikatakan oleh Ibn Rusyd (w.595/1198) dari madzhab Maliki bahwa kebolehan akad mudharabah merupakan suatu kelonggaran yang khusus.</p>
 
               <p>	Dalil Al-qur’an : "Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu (pelit) dan janganlah kamu terlalu mengulurkannya (boros) karena itu kamu menjadi tercela dan menyesal. “QS. Al Isra' (17) ayat 29 </p>
 
-              <p>	Hadist Rasulullah SAW  bersabda, “Simpanlah sebagian dari harta kamu untuk kebaikan masa depan kamu, karena itu jauh lebih baik bagimu.” (Hadits Riwayat Bukhari)
+              <p>	Hadist Rasulullah SAW  bersabda, “Simpanlah sebagian dari harta kamu untuk kebaikan masa depan kamu, karena itu jauh lebih baik bagimu.” (Hadits Riwayat Bukhari)</p>
 
-</p>
             <h5>Apa Keuntungan bagi Anggota/ Nasabah?</h5>
               <ol>
                 <li>Memudahkan anggota/Nasabah menyimpan hartanya untuk kebaikan masa depan</li>
                 <li>	cara perhitungan keuntungan yang di dapat dengan cara nisbah atau bagi hasil.</li>
-Setoran dengan nilai tertentu (lihat table) dan bisa dilayani jemput bola </li>
-	Saldo IBADAH bisa digunakan untuk agunan/jaminan pembiayaan</li>
-	Tidak ada biaya administrasi bulanan.</li>
-	Saldo IBADAH diproses pada sektor bisnis halal dan dengan cara yang halal.</li>
-	Mendapatkan nilai bagi hasil bulanan lebih tinggi dari bank umum.
-</li>
-
+                <li>Setoran dengan nilai tertentu (lihat table) dan bisa dilayani jemput bola </li>
+	              <li>Saldo IBADAH bisa digunakan untuk agunan/jaminan pembiayaan</li>
+	              <li>Tidak ada biaya administrasi bulanan.</li>
+                <li>Saldo IBADAH diproses pada sektor bisnis halal dan dengan cara yang halal.</li>
+	              <li>Mendapatkan nilai bagi hasil bulanan lebih tinggi dari bank umum.</li>
               </ol>
               <h5>Apa saja syarat dan ketentuan membuka rekening Tabungan IBADAH?</h5>
               <ol>
@@ -91,17 +88,11 @@ Setoran dengan nilai tertentu (lihat table) dan bisa dilayani jemput bola </li>
               </ol>
 
               <h5>Table Tabungan IBADAH</h5>
-              <img src="assets/img/table-tabungan-simbah.png" width="700">
+              <img src="assets/img/table-tabungan-ibadah.png" width="700">
               <br><br>
-
               <strong>
               <h6>Catatan :</h6>
-              <ol>
-                <li>Nilai Bagi Hasil tiap bulan di atas hanya gambaran nilai rata-rata pembulatan 
-	salama 5 tahun terakhir di KSPPS BMT PAS
-</li>
-               
-              </ol>
+                <p><strong>Nilai Bagi Hasil tiap bulan di atas hanya gambaran nilai rata-rata pembulatan salama 5 tahun terakhir di KSPPS BMT PAS</strong></p>
               </strong>
 
 
