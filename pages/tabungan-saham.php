@@ -34,12 +34,12 @@
               <h4>Produk & Layanan Lainnya</h4>
               <ul class="cat">
                     <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
-                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
                     <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
                     <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
                     <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
-                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Simbah</a></li>
-                    <li><a href="index.php?page=pembiayaan-simbah">Pembiayaan Simbah</a></li>
+                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
+                    <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
+                    <li><a href="index.php?page=tabungan-smart">Tabungan Smart</a></li>
               </ul>
             </div>
           </aside>

@@ -4,11 +4,7 @@
         <div class="row">
           <div class="span12">
             <div class="centered">
-<<<<<<< HEAD
-              <h3>Pembiayaan Simbah BMT PAS</h3>
-=======
               <h3>Tabungan Simbah BMT PAS</h3>
->>>>>>> 02bd0025e9c9ec428be21adcea10f509580fb834
               
             </div>
           </div>
@@ -22,88 +18,15 @@
         <div class="span12">
           <ul class="breadcrumb notop">
             <li><a href="index.php">BMT PAS </a><span class="divider">/</span></li>
-<<<<<<< HEAD
-            <li class="active">Pembiayaan SimBah BMT Projo Artha Sejahtera</li>
-          </ul>
-        </div>
-      </div>
-=======
+
             <li class="active">Tabungan Simbah BMT Projo Artha Sejahtera</li>
           </ul>
         </div>
       </div>  
->>>>>>> 02bd0025e9c9ec428be21adcea10f509580fb834
+
     </div>
 	
 </section>
-
-<<<<<<< HEAD
-
-
-
-<section id="maincontent">
-    <div class="container">
-      <div class="row">
-        <div class="span9">
-		<h4>SimBah BMT PAS Melayani : </h4>
-<ol>
-<h5>Pembiayaan Produktif</h5>
-<li>	Modal Usaha</li>
-<li>	Dana Sebrakan </li>
-<li>	Modal peternakan</li>
-<li>	Modal Pertanian</li>
-</ol>
-<h5>Pembiayaan Konsumtif</h5>
-<ol>
-<li>Pembelian Mobil</li>
-<li>Pembelian Motor</li>
-<li>Pembelian Sepeda</li>
-<li>Pembelian Rumah</li>
-<li>Pembelian Tanah</li>
-<li>Pembelian Perhiasan</li>
-<li>Pembelian Traktor</li>
-<li>Pembelian Genset</li>
-<li>Pembelian HP</li>
-<li>Pembelian TV</li>
-<li>Pembelian AC</li>
-<li>Pembelian Laptop</li>
-<li>Pembelian Kamera</li>
-<li>Pembelian Kulkas</li>
-<li>Pembelian Springbad</li>
-<li>Pembelian Qurban</li>
-</ol>
-<h5>Pembiayaan Multiguna</h5>
-
-<ol>
-<li>Biaya Sekolah</li>
-<li>Biaya Slametan</li>
-<li>Biaya Sunatan</li>
-<li>Biaya Piknik</li>
-<li>Biaya Renovasi Rumah</li>
-<li>Biaya Mantenan</li>
-<li>Biaya Rumah Sakit</li>
-<li>Take Over Produktif</li>
-</ol>
-<h5>Gadai</h5>
-<li>Gadai Mobil</li>
-<li>Gadai Motor </li>
-<li>Gadai Perhiasan</li>
-<li>Gadai Elektronik</li>
-
-
-
-
-         
-
-        
-			   
-			   
-            
-		  
-		  
-           
-        
-=======
 <section id="maincontent">
     <div class="container">
       <div class="row">
@@ -117,8 +40,9 @@
                     <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
                     <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
                     <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
-                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Simbah</a></li>
-                    <li><a href="index.php?page=pembiayaan-simbah">Pembiayaan Simbah</a></li>
+                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
+                    <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
+                    <li><a href="index.php?page=tabungan-smart">Tabungan Smart</a></li>
               </ul>
             </div>
           </aside>
@@ -163,8 +87,6 @@
                 <li>Anggota/Nasabah masih mendapatkan tambahan bagi hasil setara 0.35% setiap bulannya</li>
               </ol>
               </strong>
-
->>>>>>> 02bd0025e9c9ec428be21adcea10f509580fb834
       </div>
     </div>
   </section>
