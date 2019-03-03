@@ -30,15 +30,19 @@
                           <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
                           <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
                           <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
+                          <li><a href="index.php?page=tabungan-smart">Tabungan Smart</a></li>
                         </ul>
                       </li>
                     </ul>
                   </li>
-                  <li>
+                  <li <?php if($page == 'gallery' ){echo "class='active' ";} ?>>
                     <a href="index.php?page=gallery">Gallery</a>
                   </li>
                   <li <?php if($page == 'profile' ){echo "class='active' ";} ?> >
                     <a href="index.php?page=profile">Profil & Kontak Kami</a>
+                  </li>
+                  <li style="" class="hover">
+                    <a href="index.php?page=simulasi" style="color: #000;"><i class="icon-calendar icon-rounded"></i>Simulasi Pembiayaan</a>
                   </li>
                 </ul>
               </nav>

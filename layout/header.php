@@ -35,6 +35,16 @@
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
   ======================================================= -->
+  <style type="text/css">
+    .hover{
+      background: #94c045; 
+    }
+    .hover:hover{
+      background: #A7DB4A;
+    }
+    /*style table simulasi perhitungan */
+  
+  </style>
 </head>
 
 <body>

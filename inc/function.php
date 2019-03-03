@@ -6,6 +6,24 @@ function paragraf($paragraf)
 
 	return $description;
 }
+function buatrp($angka){
+	$jadi ="Rp. " .number_format($angka,2,',','.');
+	return $jadi;
+}
+
+// fungsi di simulasi efektif jgn dihapus
+
+function to_rupiah($value)
+{
+        if($value < 0)
+        {
+            return '( Rp '.number_format(abs($value), 0, '', '.').' )';
+        }
+        else
+        {
+            return 'Rp '.number_format($value, 0, '', '.').'  ';
+        }
+}
 
 function paragrafCounted($var)
 {
@@ -34,6 +52,12 @@ function batasiKalimat75($text)
 
 	return $varText;
 }
+
+function changeIDRtoInt($price)
+{
+	return str_replace('.', '', $price);
+}
+
 function getNameFoto($file){
 
 		$nameArr = explode('.',$_FILES['foto']['name']);
@@ -46,5 +70,19 @@ function getNameFoto($file){
 
 		return $file;
 }
+// hitung kredit anuitas *jangan dihapus*
+function hitung_kredit($besar_pinjaman, $jangka, $bunga) 
+{ 
+	$bunga_bulan = ($_SESSION['simulasi']['bunga']/12)/100; 
+	$pembagi = 1-(1/pow(1+$bunga_bulan, $_SESSION['simulasi']['jangka'])); 
+	$hasil = $_SESSION['simulasi']['besar_pinjaman']/($pembagi/$bunga_bulan); 
+	return $hasil; 
+} 
+
+function rupiah($angka) 
+{ 
+	$jadi = "Rp ".number_format($angka,2,',','.'); 
+	return $jadi; 
+} 
 
  ?>

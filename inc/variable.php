@@ -29,6 +29,9 @@ $nameGallery = addslashes($_POST['nama-baru']);
 // gallery
 $id_kegiatan = $_POST['namaGambar'];
 
+// perhitungan
+// $uangMuka = $_POST['uangmuka_pinjaman'];
+
 
 // message
 if($message == '11')
@@ -53,6 +56,10 @@ elseif($message == '21')
 elseif($message == '22')
 {
 	$alert = 'Foto/gambar sudah dihapus.';
+}
+elseif($message == '90')
+{
+	$alert = 'Sory Bro, Uang mukamu kurang.';
 }
 
 

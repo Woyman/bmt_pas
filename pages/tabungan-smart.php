@@ -31,9 +31,6 @@
 </section>
 
 
-
-
-
 <section id="maincontent">
     <div class="container">
       <div class="row">
@@ -56,28 +53,20 @@
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
-      		<h4>Apa itu Tabungan IBADAH? </h4>
-              <p>Tabungan SMART adalah simpanan akhir tahun, merupakan salah satu produk tabungan 
-			  KSPPS BMT PAS yang dikerjasamakan dengan lembaga pendidikan/sekolah 
-			  dalam rangka membantu  siswa-siswi  belajar untuk berbudaya menabung.
-			</p>
-
+      		<h4>Apa itu Tabungan SMART? </h4>
+              <p>Tabungan SMART adalah <strong>simpanan akhir tahun,</strong> merupakan salah satu produk tabungan KSPPS BMT PAS yang dikerjasamakan dengan lembaga pendidikan/sekolah dalam rangka membantu  siswa-siswi  belajar untuk berbudaya menabung.</p>
               <p>	Dalil Al-qur’an : "Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu (pelit) dan janganlah kamu terlalu mengulurkannya (boros) karena itu kamu menjadi tercela dan menyesal. “QS. Al Isra' (17) ayat 29 </p>
-
-              <p>	Hadist Rasulullah SAW  bersabda, “Simpanlah sebagian dari harta kamu untuk kebaikan masa depan kamu, karena itu jauh lebih baik bagimu.” (Hadits Riwayat Bukhari)
-
-</p>
+              <p>	Hadist Rasulullah SAW  bersabda, “Simpanlah sebagian dari harta kamu untuk kebaikan masa depan kamu, karena itu jauh lebih baik bagimu.” (Hadits Riwayat Bukhari)</p>
+            
             <h5>Apa Keuntungan bagi Anggota/ Nasabah?</h5>
               <ol>
                 <li>	Mendidik siswa siswi belajar untuk berbudaya menabung</li>
- <li>Setoran bisa sewaktu- waktu dan bisa dilayani jemput bola </li>
- <li>Saldo tabungan bisa digunakan untuk agunan/jaminan pembiayaan orang tua wali siswa</li>
- <li>	Tidak ada biaya administrasi bulanan.</li>
- <li>Mendapatkan tambahan bagi hasil bulanan yang kompetitif</li>
- <li>	Bagi siswa yang paling rajin menabung mendapatkan hadiah</li>
- <li>KSPPS BMT PAS turut serta dalam sponshorship kegiatan Lembaga sekolah tersebut
-
-</li>
+               <li>Setoran bisa sewaktu- waktu dan bisa dilayani jemput bola </li>
+               <li>Saldo tabungan bisa digunakan untuk agunan/jaminan pembiayaan orang tua wali siswa</li>
+               <li>	Tidak ada biaya administrasi bulanan.</li>
+               <li>Mendapatkan tambahan bagi hasil bulanan yang kompetitif</li>
+               <li>	Bagi siswa yang paling rajin menabung mendapatkan hadiah</li>
+               <li>KSPPS BMT PAS turut serta dalam sponshorship kegiatan Lembaga sekolah tersebut</li>
 
               </ol>
               <h5>Apa saja syarat dan ketentuan membuka rekening Tabungan SMART?</h5>
