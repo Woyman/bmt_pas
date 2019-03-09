@@ -4,7 +4,7 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
-          <div class="span12">
+          <!-- <div class="span12"> -->
             <!-- logo -->
             <a class="brand logo" href="index.php"><img src="assets/logo-bmt.jpg" width="180"></a>
             <!-- end logo -->
@@ -42,19 +42,25 @@
                       </li>
                     </ul>
                   </li>
+                  <li <?php if($page == 'lpz-pas' ){echo "class='active' ";} ?> ><a href="index.php?page=lpz-pas">LPZ PAS - LAZNAS BSM</a></li>
                   <li <?php if($page == 'gallery' ){echo "class='active' ";} ?>>
                     <a href="index.php?page=gallery">Gallery</a>
                   </li>
                   <li <?php if($page == 'profile' ){echo "class='active' ";} ?> >
                     <a href="index.php?page=profile">Profil & Kontak Kami</a>
                   </li>
-                  <li style="" class="hover">
-                    <a href="index.php?page=simulasi" style="color: #000;"><i class="icon-calendar icon-rounded"></i>Simulasi Pembiayaan</a>
+                  <li class="dropdown hover" >
+                    <a href="#" style="color: #000;"><i class="icon-calendar icon-rounded"></i>Simulasi Perhitungan</a>
+                    <ul class="dropdown-menu">
+                      <li><a href="index.php?page=simulasi" style="color: #000;"></i>Simulasi Pembiayaan</a></li>
+                      <li><a href="index.php?page=kalkulator-zakat" style="color: #000;">Kalkulator Zakat</a>
+                      </li>
+                    </ul>
                   </li>
                 </ul>
               </nav>
             </div>
-          </div>
+          <!-- </div> -->
           <!-- end menu -->
         </div>
       </div>

@@ -619,9 +619,9 @@ form.bs-docs-example {
     padding-top: 0;
   }
   /* Widen masthead and social buttons to fill body padding */
-  .jumbotron {
-    margin-top: -20px; /* Offset bottom margin on .navbar */
-  }
+/*  .jumbotron {
+    margin-top: -20px;  Offset bottom margin on .navbar 
+  }*/
   /* Adjust sidenav width */
   .bs-docs-sidenav {
     width: 166px;
@@ -641,12 +641,12 @@ form.bs-docs-example {
   }
 
   /* Widen masthead and social buttons to fill body padding */
-  .jumbotron {
+/*  .jumbotron {
     padding: 40px 20px;
-    margin-top:   -20px; /* Offset bottom margin on .navbar */
+    margin-top:   -20px;  Offset bottom margin on .navbar 
     margin-right: -20px;
     margin-left:  -20px;
-  }
+  }*/
   .masthead h1 {
     font-size: 90px;
   }
@@ -678,7 +678,7 @@ form.bs-docs-example {
   }
 
   /* Unfloat the back to top link in footer */
-  .footer {
+/*  .footer {
     margin-left: -20px;
     margin-right: -20px;
     padding-left: 20px;
@@ -686,7 +686,7 @@ form.bs-docs-example {
   }
   .footer p {
     margin-bottom: 9px;
-  }
+  }*/
 }
 
 /* Landscape phones
@@ -734,12 +734,12 @@ form.bs-docs-example {
   }
 
   /* Tighten up footer */
-  .footer {
+/*  .footer {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  /* Unfloat the back to top in footer to prevent odd text wrapping */
+   Unfloat the back to top in footer to prevent odd text wrapping 
   .footer .pull-right {
     float: none;
-  }
+  }*/
 }

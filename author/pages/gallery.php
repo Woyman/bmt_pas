@@ -107,7 +107,7 @@
             <div class="row">
               <div class="span5">
                 <legend style="margin-bottom: unset">Daftar Nama</legend>
-                <div style="max-height: 500px; overflow: scroll;">
+                <div style="max-height: 200px; overflow: scroll;">
                   <table class="table table-hover">
                     <thead>
                       <tr>

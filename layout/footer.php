@@ -3,6 +3,9 @@
       <div class="row">
         <div class="span4">
           <div class="widget">
+            <h4>Simulasi Perhitungan</h4>
+              <a href="index.php?page=simulasi"><i class="icon-calendar icon-rounded"></i>Kalkulator Pembiayaan</a><br>
+              <a href="#"><i class="icon-glass icon-rounded"></i>Kalkulator Zakat</a>
             <h4>Produk & Layanan</h4>
               <ul class="regular">
                     <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
@@ -10,7 +13,9 @@
                     <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
                     <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
                     <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
-                    <li><a href="index.php?page=pembiayaan-simbah">Pembiayaan Simbah</a></li>
+                    <li><a href="index.php?page=pembiayaan-produktif">Pembiayaan Produktif</a></li>
+                    <li><a href="index.php?page=pembiayaan-konsumtif">Pembiayaan Konsumtif</a></li>
+                    <li><a href="index.php?page=pembiayaan-gadai">Pembiayaan Gadai</a></li>
               </ul>
           </div>
         </div>

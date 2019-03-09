@@ -5,9 +5,15 @@ $dbname = "bmtpas_db";
 $user = "root";
 $psw = "";
 
-// $dbname = "huwahuho_huwahujogja";
-// $user = "huwahuho_userAdm";
-// $psw = "wO*$6tupNlgN_huwahu";
+
+// $dbname = "bmta5353_db";
+
+// $user = "bmta5353_userDB";
+
+// $psw = "EBur{!C3xd=t";
+
+// $password = addslashes($psw);
+
 
 
 $connect =  mysqli_connect("localhost",$user,$psw, $dbname);   

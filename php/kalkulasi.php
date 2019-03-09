@@ -9,20 +9,28 @@ session_start();
 
 if(isset($_POST['uangmuka_pinjaman']))
 {
-	$persentase = ($_POST["besar_pinjaman"]*30)/100; 
-
-	if($_POST['uangmuka_pinjaman'] < $persentase)
+	$persentase = (changeIDRtoInt($_POST["besar_pinjaman"])*30)/100; 
+	// echo "<br>";
+	// echo changeIDRtoInt($_POST["uangmuka_pinjaman"]);
+	
+	if(changeIDRtoInt($_POST['uangmuka_pinjaman']) < $persentase)
 	{
+		// echo "kurang";
 		header("location: ../index.php?page=simulasi&message=90");
 	}
+	else
+	{
 
-	$_SESSION['simulasi']['besar_pinjaman'] = changeIDRtoInt($_POST["besar_pinjaman"]);
-	$_SESSION['simulasi']['besar_pengembalian'] = changeIDRtoInt($_POST['besar_pinjaman']) - changeIDRtoInt($_POST['uangmuka_pinjaman']);
-	$_SESSION['simulasi']['uang_muka'] = $_POST['uangmuka_pinjaman'];
-	$_SESSION['simulasi']['bunga'] = $_POST["bunga"]; 
-	$_SESSION['simulasi']['jangka'] = $_POST["jangka"]; 
-	$_SESSION['simulasi']['perbulan'] = $_POST["bunga"]/12; 
-	$jenisBunga = 'flat';
+		// echo 'pas';
+		$_SESSION['simulasi']['besar_pinjaman'] = changeIDRtoInt($_POST["besar_pinjaman"]);
+		$_SESSION['simulasi']['besar_pengembalian'] = changeIDRtoInt($_POST['besar_pinjaman']) - changeIDRtoInt($_POST['uangmuka_pinjaman']);
+		$_SESSION['simulasi']['uang_muka'] = $_POST['uangmuka_pinjaman'];
+		$_SESSION['simulasi']['bunga'] = $_POST["bunga"]; 
+		$_SESSION['simulasi']['jangka'] = $_POST["jangka"]; 
+		$_SESSION['simulasi']['perbulan'] = $_POST["bunga"]/12; 
+		$jenisBunga = 'flat';
+
+	}
 
 }
 else{

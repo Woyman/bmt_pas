@@ -8,7 +8,7 @@ include("../inc/function.php");
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>BMT PAS Bantul</title> 
+  <title>BMT Projo Artha Sejahtera Bantul</title> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="BMT Projo Artha Sejahtera adalah suatu lembaga Jasa Keuangan Syari’ah yang sistim operasionalnya berdasarkan pada prinsip-prinsip syariah Islam" name="description" >
   <meta name="author" content="BMT Projo Artha Sejahter">
@@ -92,8 +92,8 @@ include("../inc/function.php");
  ?>
 
         <pre style="width: 400px; position: relative; float: left;">
-        Jumlah Pinjaman          = <b><?php echo buatrp($SP_SLIDING);?></b>
-        Lama Pinjaman            = <b><?php echo $LA; ?> Bulan</b>
+        Jumlah Pembiayaan          = <b><?php echo buatrp($SP_SLIDING);?></b>
+        Lama Pembiayaan            = <b><?php echo $LA; ?> Bulan</b>
         Angsuran Pokok Per Bulan = <b><?php echo buatrp($c_pokok);?></b>
         </pre>
         <img src="../assets/logo-bmt-kotak.jpg" width="100" style=" position: relative; float: right; ">

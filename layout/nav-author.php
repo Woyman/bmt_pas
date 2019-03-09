@@ -18,9 +18,9 @@
                   <li <?php if($page == 'gallery' ){echo "class='active' ";} ?>>
                     <a href="index.php?page=gallery">Gallery</a>
                   </li>
-                  <li <?php if($page == 'setting-profile' ){echo "class='active' ";} ?> >
-                    <a href="index.php?page=setting-profile">Setting & Profile</a>
-                  </li>
+                   <!--  <li <?php if($page == 'setting-profile' ){echo "class='active' ";} ?> >
+                      <a href="index.php?page=setting-profile">Setting & Profile</a>
+                    </li> -->
                   <li>
                     <a href="php/logout-author.php"> <i class="icon-signout"></i>Logout</a>
                   </li>

@@ -17,7 +17,7 @@
       <div class="row">
         <div class="span12">
           <ul class="breadcrumb notop">
-            <li><a href="index.php">BMT PAS </a><span class="divider">/</span></li>
+            <li><a href="index.php">BMT Projo Artha Sejahtera </a><span class="divider">/</span></li>
             <li class="active">Simulasi Pembiayaan Flat</li>
           </ul>
         </div>
@@ -71,8 +71,8 @@
 		$jumlah = $angsuran_pokok+$angsuran_bunga; ?>
 
 		<pre>
-		Jumlah Pinjaman          = <b><?php echo buatrp($jumlah_pinjaman);?></b>
-		Lama Pinjaman            = <b><?php echo $lama_pinjaman; ?> Bulan</b>
+		Jumlah Pembiayaan          = <b><?php echo buatrp($jumlah_pinjaman);?></b>
+		Lama Pembiayaan            = <b><?php echo $lama_pinjaman; ?> Bulan</b>
 		Angsuran Pokok Per Bulan = <b><?php echo buatrp($angsuran_pokok);?></b>
 		Margin/Keuntungan Per Bulan = <b><?php echo buatrp($angsuran_bunga);?></b>
 		                           _____________________ ( + )

@@ -7,7 +7,7 @@
     <div class="container">
 
         <div class="tagline_text centered">
-            <h2>BMT PAS Menyediakan Pelayanan:</h2>
+            <h2>BMT Projo Artha Sejahtera Menyediakan Pelayanan:</h2>
             <p>
               Proses Cepat, dan Angsuran Terjangkau
             </p>
@@ -80,7 +80,7 @@
       </div> -->
       <div class="row">
           <div class="centered" style="margin: 50px">
-            <h3>Gallery Foto Kegiatan BMT PAS</h3>
+            <h3>Gallery Foto Kegiatan BMT Projo Artha Sejahtera</h3>
           </div>
         <ul class="portfolio-area da-thumbs">
           
@@ -112,7 +112,7 @@
         </ul>
 
         <div style="float: right; margin-bottom: 30px;">
-            <a href="#">Lihat Gallery >></a>
+            <a href="index.php?page=gallery">Lihat Gallery >></a>
         </div>
 
       </div>

@@ -8,7 +8,7 @@ include("../inc/function.php");
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>BMT PAS Bantul</title> 
+  <title>BMT Projo Artha Sejahtera Bantul</title> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="BMT Projo Artha Sejahtera adalah suatu lembaga Jasa Keuangan Syari’ah yang sistim operasionalnya berdasarkan pada prinsip-prinsip syariah Islam" name="description" >
   <meta name="author" content="BMT Projo Artha Sejahter">
@@ -84,8 +84,8 @@ include("../inc/function.php");
 	<div class="row">
 		
 			<pre style="width: 400px; position: relative; float: left;">
-	Jumlah Pinjaman         = <?php echo rupiah($_SESSION['simulasi']['besar_pinjaman']);?>	    
-	Jangka waktu            = <?php echo $_SESSION['simulasi']['jangka'];?> Bulan	
+	Jumlah Pembiayaan         = <?php echo rupiah($_SESSION['simulasi']['besar_pinjaman']);?>	    
+	Jangka Pembiayaan            = <?php echo $_SESSION['simulasi']['jangka'];?> Bulan	
 			</pre>	
 
 			<img src="../assets/logo-bmt-kotak.jpg" width="100" style=" position: relative; float: right; ">

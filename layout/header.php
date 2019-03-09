@@ -2,17 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>BMT PAS Bantul</title> 
+  <title>BMT Projo Artha Sejahtera (PAS) Bantul</title> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="BMT Projo Artha Sejahtera adalah suatu lembaga Jasa Keuangan Syari’ah yang sistim operasionalnya berdasarkan pada prinsip-prinsip syariah Islam" name="description" >
   <meta name="author" content="BMT Projo Artha Sejahter">
+  <meta name="keywords" content="PAS, BMT PAS, bmt pas bantul, bmt pas, bmt projo artha Sejahtera, bmt projo artha Sejahtera bantul,  bmt bantul, BMT Bantul, BTM PAS bantul, BMT Pas Bantul" >
   <meta content="https://bmtpasbantul.com/" property="og:url">
   <meta content="BMT Projo Artha Sejahtera adalah suatu lembaga Jasa Keuangan Syari’ah yang sistim operasionalnya berdasarkan pada prinsip-prinsip syariah Islam" property="og:description">
   
   <!-- styles -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700" rel="stylesheet">
   <link href="assets/css/bootstrap.css" rel="stylesheet">
-  <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+  <!-- <link href="assets/css/bootstrap-responsive.css" rel="stylesheet"> -->
   <link href="assets/css/docs.css" rel="stylesheet">
   <link href="assets/css/prettyPhoto.css" rel="stylesheet">
   <link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
