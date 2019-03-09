@@ -5,7 +5,7 @@
           <div class="span12">
             <div class="centered">
 
-              <h3>Tabungan IBADAH BMT Projo Artha Sejahtera</h3>
+              <h3>Tabungan IBADAH BMT PAS</h3>
 
               
             </div>
@@ -19,7 +19,7 @@
       <div class="row">
         <div class="span12">
           <ul class="breadcrumb notop">
-            <li><a href="index.php">BMT Projo Artha Sejahtera </a><span class="divider">/</span></li>
+            <li><a href="index.php">BMT PAS </a><span class="divider">/</span></li>
 
             <li class="active">Tabungan IBADAH BMT Projo Artha Sejahtera</li>
           </ul>

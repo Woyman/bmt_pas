@@ -4,7 +4,7 @@
         <div class="row">
           <div class="span12">
             <div class="centered">
-              <h3>Pembiayaan Produktif BMT Projo Artha Sejahtera</h3>
+              <h3>Pembiayaan Produktif BMT PAS</h3>
               
             </div>
           </div>
@@ -17,7 +17,7 @@
       <div class="row">
         <div class="span12">
           <ul class="breadcrumb notop">
-            <li><a href="index.php">BMT Projo Artha Sejahtera </a><span class="divider">/</span></li>
+            <li><a href="index.php">BMT PAS </a><span class="divider">/</span></li>
             <li class="active">Pembiayaan Produktif BMT Projo Artha Sejahtera</li>
           </ul>
         </div>
@@ -51,13 +51,13 @@
             <ol>               
               <li>Modal Usaha</li>
               <li>Dana Sebrakan</li>
-              <li>Modal </li>
+              <li>Modal Peternakan</li>
               <li>Modal Pertaniam</li>
             </ol>
           <h5>Ketentuan Pembiayaan Produktif :</h5>
             <ol>
               <li>	Peruntukan/ kegunaan dana BMT PAS adalah untuk memenuhi kebutuhan investasi atau pengembangan usaha</li>
-              <li>Angsuran Pembiayaan ada 2 (model) yaitu :<li>
+              <li>Angsuran Pembiayaan ada 2 (model) yaitu :</li>
                 <ol>
                   <li>Pembiayaan dengan angsuran pokok dan keuntungan  yang dibayar setiap bulan </li>
                   <li>Pembiayaan dengan angsuran pokok di bayar pada saat jatuh tempo sedangkan keuntungan di bayar setiap bulan </li>
