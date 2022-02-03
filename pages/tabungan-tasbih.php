@@ -48,6 +48,11 @@
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
+
+          <div>
+            <img src="assets/img/produk/ibadahhaji.jpg" class="botspacer50" height="600" style="max-height: 600px;">
+          </div>
+
       		<h4>Apa itu Tabungan Tasbih? </h4>
               <p>Tabungan TASBIH adalah Tabungan Syariah Biaya Ibadah Haji dan Umroh merupakan salah satu produk tabungan KSPPS BMT PAS yang membantu  anggota/nasabah mewujudkan ibadah Haji sebagai rukun islam kelima dan  ibadah umroh/haji kecil.</p>
 

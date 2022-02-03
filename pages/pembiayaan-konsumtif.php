@@ -45,6 +45,11 @@
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
+
+          <div>
+            <img src="assets/img/produk/konsumtifmotor.jpg" class="botspacer50" height="600" style="max-height: 600px;">
+          </div>
+
       		<h4>Apa itu Pembiayaan Konsumtif? </h4>
               <p>Merupakan pembiayaan untuk memfasilitasi anggota/nasabah dalam memenuhi kebutuhan kepemilikan kendaraan, elektronik, rumah, tanah, perhiasan, dan asset sejenis dengan jangka waktu maksimal sampai dengan 36 bulan dengan akad murabahah.</p>   
           <h5>Jenis Pembiayan yang di layani :</h5>

@@ -48,6 +48,11 @@
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
+
+          <div>
+            <img src="assets/img/produk/hewanqurban.png" class="botspacer50" height="600" style="max-height: 600px;">
+          </div>
+
       		<h4>Apa itu Tabungan Qurban? </h4>
               <p>Tabungan Qurban adalah merupakan salah satu produk tabungan KSPPS BMT PAS yang membantu  anggota/nasabah mewujudkan rencana qur’bannya di bulan idul adha.</p>
 

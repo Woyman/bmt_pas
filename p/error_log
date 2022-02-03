@@ -1,0 +1,672 @@
+[17-Aug-2019 16:05:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function limitWords300() in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php on line 11
+[17-Aug-2019 16:05:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function limitWords300() in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php on line 11
+[17-Aug-2019 16:05:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function limitWords300() in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php on line 11
+[17-Aug-2019 16:06:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function limitWords300() in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php on line 11
+[17-Aug-2019 16:06:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function limitWords300() in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php on line 11
+[17-Aug-2019 16:06:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function limitWords300() in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php on line 11
+[17-Aug-2019 16:07:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function limitWords300() in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bmta5353/public_html/p/isiSummarySemuaBerita.php on line 11
+[21-Nov-2019 00:32:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/bmta5353/public_html/inc/config/connection.php on line 19
+[21-Nov-2019 00:32:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/p/index.php on line 15
+[21-Nov-2019 00:32:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/p/index.php on line 16
+[21-Nov-2019 00:32:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/p/index.php on line 85
+[21-Nov-2019 00:32:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/p/index.php on line 86
+[21-Nov-2019 00:32:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/layout/footer2.php on line 31
+[21-Nov-2019 00:32:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/layout/footer2.php on line 32
+[09-Jun-2020 20:25:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/bmta5353/public_html/inc/config/connection.php on line 19
+[09-Jun-2020 20:25:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/p/index.php on line 15
+[09-Jun-2020 20:25:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/p/index.php on line 16
+[09-Jun-2020 20:25:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/p/index.php on line 85
+[09-Jun-2020 20:25:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/p/index.php on line 86
+[09-Jun-2020 20:25:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/layout/footer2.php on line 31
+[09-Jun-2020 20:25:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/layout/footer2.php on line 32
+[17-Jun-2020 00:17:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/bmta5353/public_html/inc/config/connection.php on line 19
+[17-Jun-2020 00:17:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/p/index.php on line 15
+[17-Jun-2020 00:17:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/p/index.php on line 16
+[17-Jun-2020 00:17:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/p/index.php on line 85
+[17-Jun-2020 00:17:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/p/index.php on line 86
+[17-Jun-2020 00:17:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/layout/footer2.php on line 31
+[17-Jun-2020 00:17:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/layout/footer2.php on line 32
+[17-Jun-2020 11:23:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/bmta5353/public_html/inc/config/connection.php on line 19
+[17-Jun-2020 11:23:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/p/index.php on line 15
+[17-Jun-2020 11:23:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/p/index.php on line 16
+[17-Jun-2020 11:23:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/p/index.php on line 85
+[17-Jun-2020 11:23:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/p/index.php on line 86
+[17-Jun-2020 11:23:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmta5353/public_html/layout/footer2.php on line 31
+[17-Jun-2020 11:23:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/layout/footer2.php on line 32
+[30-Sep-2020 05:35:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 05:35:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 05:35:31 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 05:42:15 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 05:42:15 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 05:42:15 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 06:26:14 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 06:26:14 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 06:26:14 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 06:43:44 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 06:43:44 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 06:43:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:07:49 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:07:49 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:07:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:14:01 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:14:01 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:14:01 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:49:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:49:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:49:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:49:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:49:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 08:49:39 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 09:54:02 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 09:54:02 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 09:54:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 12:25:55 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 12:25:55 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 12:25:55 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 13:14:57 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 13:14:57 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 13:14:57 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 15:12:48 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 15:12:48 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 15:12:48 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 16:13:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 16:13:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 16:13:35 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 16:22:33 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 16:22:33 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 16:22:33 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 16:36:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 16:36:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 16:36:31 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 19:20:41 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 19:20:41 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 19:20:41 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 20:10:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 20:10:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 20:10:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 20:49:13 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 20:49:13 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 20:49:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 20:59:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 20:59:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 20:59:35 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 23:44:27 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 23:44:27 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[30-Sep-2020 23:44:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 00:11:22 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 00:11:22 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 00:11:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 00:17:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 00:17:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 00:17:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 01:00:45 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 01:00:45 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 01:00:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 01:55:22 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 01:55:22 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 01:55:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 02:04:14 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 02:04:14 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 02:04:14 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 03:58:21 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 03:58:21 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 03:58:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 04:51:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 04:51:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 04:51:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 04:54:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 04:54:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 04:54:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 06:47:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 06:47:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 06:47:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 06:55:25 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 06:55:25 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 06:55:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 08:12:30 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 08:12:30 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 08:12:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 09:09:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 09:09:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 09:09:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:08:42 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:08:42 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:08:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:36:16 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:36:16 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:36:16 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:42:10 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:42:10 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:42:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:52:44 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:52:44 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 11:52:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 12:21:55 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 12:21:55 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 12:21:55 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 12:51:45 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 12:51:45 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 12:51:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 13:20:52 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 13:20:52 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 13:20:52 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 13:28:42 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 13:28:42 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 13:28:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:12:06 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:12:06 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:12:06 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:33:00 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:33:00 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:33:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:45:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:45:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:45:39 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:46:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:46:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 14:46:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 15:29:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 15:29:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 15:29:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 15:45:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 15:45:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 15:45:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 15:51:48 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 15:51:48 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 15:51:48 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 16:28:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 16:28:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 16:28:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 16:44:10 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 16:44:10 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 16:44:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 17:55:55 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 17:55:55 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 17:55:55 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 19:56:11 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 19:56:11 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 19:56:11 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 20:27:12 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 20:27:12 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 20:27:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 20:56:57 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 20:56:57 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 20:56:57 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 21:11:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 21:11:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 21:11:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 21:37:05 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 21:37:05 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 21:37:05 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 22:47:49 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 22:47:49 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[01-Oct-2020 22:47:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 00:58:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 00:58:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 00:58:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 01:50:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 01:50:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 01:50:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 03:00:08 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 03:00:08 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 03:00:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 04:11:49 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 04:11:49 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 04:11:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 05:25:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 05:25:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 05:25:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 06:05:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 06:05:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 06:05:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 06:46:28 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 06:46:28 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 06:46:28 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 07:37:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 07:37:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 07:37:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 07:48:45 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 07:48:45 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 07:48:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 09:08:09 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 09:08:09 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 09:08:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 09:34:28 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 09:34:28 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 09:34:28 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 09:42:28 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 09:42:28 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 09:42:28 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 15:19:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 15:19:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 15:19:35 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 15:55:06 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 15:55:06 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 15:55:06 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 16:33:02 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 16:33:02 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 16:33:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 16:38:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 16:38:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 16:38:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:02:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:02:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:02:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:16:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:16:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:16:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:30:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:30:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:30:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:37:32 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:37:32 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 17:37:32 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 19:49:27 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 19:49:27 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 19:49:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 21:29:30 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 21:29:30 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 21:29:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 21:49:27 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 21:49:27 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 21:49:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 22:30:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 22:30:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 22:30:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:16:25 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:16:25 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:16:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:55:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:55:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:55:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:55:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:55:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:55:35 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:55:44 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:55:44 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[02-Oct-2020 23:55:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 00:00:00 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 00:00:00 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 00:00:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 00:06:29 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 00:06:29 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 00:06:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 00:19:25 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 00:19:25 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 00:19:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 01:16:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 01:16:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 01:16:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 01:46:19 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 01:46:19 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 01:46:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 02:11:19 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 02:11:19 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 02:11:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 02:12:05 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 02:12:05 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 02:12:05 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 02:17:42 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 02:17:42 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 02:17:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 03:13:18 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 03:13:18 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 03:13:18 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 04:30:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 04:30:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 04:30:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 04:57:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 04:57:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 04:57:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 10:10:30 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 10:10:30 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 10:10:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 10:55:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 10:55:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 10:55:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 11:55:27 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 11:55:27 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 11:55:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 12:16:02 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 12:16:02 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 12:16:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 16:19:07 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 16:19:07 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 16:19:07 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 17:32:12 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 17:32:12 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 17:32:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 18:16:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 18:16:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 18:16:39 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 18:35:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 18:35:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 18:35:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 19:14:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 19:14:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 19:14:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 19:33:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 19:33:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 19:33:31 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 19:39:44 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 19:39:44 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 19:39:44 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 20:04:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 20:04:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 20:04:31 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 20:58:57 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 20:58:57 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[03-Oct-2020 20:58:57 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 00:14:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 00:14:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 00:14:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 00:18:14 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 00:18:14 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 00:18:14 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 01:16:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 01:16:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 01:16:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 03:29:08 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 03:29:08 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 03:29:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 06:36:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 06:36:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 06:36:39 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:07:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:07:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:07:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:12:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:12:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:12:39 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:25:06 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:25:06 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:25:06 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:35:05 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:35:05 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:35:05 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:41:01 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:41:01 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 07:41:01 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 08:06:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 08:06:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 08:06:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 08:18:37 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 08:18:37 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 08:18:37 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 10:22:29 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 10:22:29 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 10:22:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 10:46:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 10:46:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 10:46:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 10:54:06 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 10:54:06 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 10:54:06 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 11:17:30 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 11:17:30 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 11:17:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 11:17:52 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 11:17:52 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 11:17:52 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 11:40:57 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 11:40:57 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 11:40:57 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 13:15:42 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 13:15:42 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 13:15:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 14:16:20 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 14:16:20 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 14:16:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 14:40:56 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 14:40:56 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 14:40:56 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 15:30:32 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 15:30:32 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 15:30:32 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 16:38:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 16:38:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 16:38:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 16:49:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 16:49:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 16:49:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 16:55:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 16:55:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 16:55:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 18:45:33 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 18:45:33 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 18:45:33 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 19:28:09 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 19:28:09 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 19:28:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 19:43:53 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 19:43:53 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 19:43:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 19:57:33 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 19:57:33 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 19:57:33 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 20:18:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 20:18:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 20:18:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 20:36:05 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 20:36:05 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 20:36:05 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 20:36:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 20:36:35 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 20:36:35 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:04:37 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:04:37 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:04:37 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:05:28 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:05:28 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:05:28 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:09:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:09:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:09:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:21:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:21:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:21:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:28:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:28:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:28:31 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:50:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:50:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[04-Oct-2020 22:50:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 00:15:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 00:15:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 00:15:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 00:44:08 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 00:44:08 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 00:44:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:10:19 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:10:19 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:10:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:16:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:16:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:16:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:45:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:45:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:45:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:57:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:57:43 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 02:57:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 03:04:22 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 03:04:22 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 03:04:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 04:05:20 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 04:05:20 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 04:05:20 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 06:06:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 06:06:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 06:06:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 06:23:29 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 06:23:29 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 06:23:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 08:12:07 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 08:12:07 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 08:12:07 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 08:57:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 08:57:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 08:57:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 09:45:53 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 09:45:53 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 09:45:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 11:40:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 11:40:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 11:40:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 12:53:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 12:53:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 12:53:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 13:59:50 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 13:59:50 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 13:59:50 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 14:09:32 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 14:09:32 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 14:09:32 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 17:04:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 17:04:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 17:04:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 18:20:16 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 18:20:16 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 18:20:16 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 22:52:00 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 22:52:00 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 22:52:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 23:02:09 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 23:02:09 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[05-Oct-2020 23:02:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 00:07:15 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 00:07:15 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 00:07:15 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 01:35:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 01:35:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 01:35:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 03:01:11 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 03:01:11 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 03:01:11 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 06:46:29 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 06:46:29 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 06:46:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 07:06:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 07:06:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 07:06:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:32:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:32:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:32:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:33:32 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:33:32 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:33:32 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:43:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:43:34 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:43:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:47:13 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:47:13 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 08:47:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 09:04:12 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 09:04:12 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 09:04:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 11:04:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 11:04:58 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 11:04:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 11:11:01 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 11:11:01 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 11:11:01 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 11:16:55 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 11:16:55 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 11:16:55 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 12:14:53 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 12:14:53 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 12:14:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 13:34:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 13:34:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 13:34:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 13:42:51 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 13:42:51 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 13:42:51 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 14:37:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 14:37:31 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 14:37:31 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 14:47:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 14:47:59 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 14:47:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 16:18:22 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 16:18:22 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 16:18:22 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 17:25:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 17:25:38 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 17:25:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 18:03:41 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 18:03:41 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 18:03:41 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 19:09:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 19:09:04 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 19:09:04 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 21:12:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 21:12:03 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 21:12:03 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 22:09:53 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 22:09:53 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 22:09:53 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 22:17:00 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 22:17:00 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 22:17:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 23:12:11 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 23:12:11 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 23:12:11 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 23:46:45 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 23:46:45 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[06-Oct-2020 23:46:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 00:04:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 00:04:17 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 00:04:17 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 00:10:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 00:10:54 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 00:10:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 00:17:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 00:17:36 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 00:17:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 02:36:25 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 02:36:25 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 02:36:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 03:14:10 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 03:14:10 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 03:14:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 04:57:49 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 04:57:49 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 04:57:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 05:01:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 05:01:39 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 05:01:39 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 06:31:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 06:31:46 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 06:31:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 07:53:13 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 07:53:13 Asia/Jakarta] PHP Warning:  include(../inc/variable.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/p/index.php on line 9
+[07-Oct-2020 07:53:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '../inc/variable.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/p/index.php on line 9
+[07-Jun-2021 04:17:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/bmtj3557/public_html/inc/config/connection.php on line 19
+[07-Jun-2021 04:17:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmtj3557/public_html/p/index.php on line 15
+[07-Jun-2021 04:17:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmtj3557/public_html/p/index.php on line 16
+[07-Jun-2021 04:17:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmtj3557/public_html/p/index.php on line 95
+[07-Jun-2021 04:17:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmtj3557/public_html/p/index.php on line 96
+[07-Jun-2021 04:17:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bmtj3557/public_html/layout/footer2.php on line 31
+[07-Jun-2021 04:17:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bmtj3557/public_html/layout/footer2.php on line 32

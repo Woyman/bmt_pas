@@ -1,2 +1,9 @@
 RewriteEngine On
+
 RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteRule ^([a-zA-Z0-9_-]+)$ index.php?page=$1
+RewriteRule ^([a-zA-Z0-9_-]+)/$ index.php?page=$1
+RewriteRule ^p/([a-zA-Z0-9_-]+)$ p/index.php?p=$1
+

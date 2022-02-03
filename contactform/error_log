@@ -1,0 +1,1 @@
+[17-Mar-2019 05:18:50 Asia/Jakarta] PHP Notice:  fputs(): send of 23 bytes failed with errno=32 Broken pipe in /home/bmta5353/public_html/php/phpmailer/class.smtp.php on line 494

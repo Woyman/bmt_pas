@@ -22,7 +22,7 @@ unset($_SESSION['simulasi']);
       <div class="row">
         <div class="span12">
           <ul class="breadcrumb notop">
-            <li><a href="index.php">BMT PAS </a><span class="divider">/</span></li>
+            <li><a href="index.php">BMT Projo Artha Sejahtera </a><span class="divider">/</span></li>
             <li class="active">Simulasi Pembiayaan</li>
           </ul>
         </div>
@@ -39,15 +39,17 @@ unset($_SESSION['simulasi']);
             <form action="php/kalkulasi.php" method="post">
               <div class="control-group">
                 <label>Jumlah Pembiayaan</label>
-                <input type="text" name="besar_pinjaman" class="priceFormatIDR">
+                <input type="text" name="besar_pinjaman" class="priceFormatIDR" required>
               </div>
               <div class="control-group">
                 <label>Lama Pembiayaan</label>
-                <input type="text" name="jangka"> <span style="font-size: 16px">(Bulan)</span>
+                <input type="text" name="jangka" class="onlyInt lamaPembiayaan" style="margin-bottom: 0px;" required> <span style="font-size: 16px">(Bulan)</span><br>
+                <small style="margin-left: 10px;">(0.0 tahun)</small>
               </div>
               <div class="control-group">
                 <label>Pricing Pembiayaan</label>
-                <input type="text" name="bunga"> <span style="font-size: 16px">%/Tahun</span>
+                <input type="text" name="bunga" class="bungaPertahun" required style="margin-bottom: 0px;"> <span style="font-size: 16px">pricing/Tahun</span><br>
+                <small style="margin-left: 10px;">(0.0 %/bulan)</small>
               </div>
               <div class="control-group">
                 <label>Skema Perhitungan</label>
@@ -78,20 +80,22 @@ unset($_SESSION['simulasi']);
 
               <div class="control-group">
                 <label>Jumlah Pembiayaan</label>
-                <input type="text" name="besar_pinjaman" class="priceFormatIDR">
+                <input type="text" name="besar_pinjaman" class="priceFormatIDR" required>
               </div>
               <div class="control-group">
                 <label>Uang Muka</label>
-                <input type="text" name="uangmuka_pinjaman" class="priceFormatIDR">
+                <input type="text" name="uangmuka_pinjaman" class="priceFormatIDR" required>
                 *Minimal 30% dari Jumlah Pembiayaan
               </div>
               <div class="control-group">
                 <label>Lama Pembiayaan</label>
-                <input type="text" name="jangka"> <span style="font-size: 16px">(Bulan)</span>
+                <input type="text" name="jangka" class="onlyInt lamaPembiayaan" style="margin-bottom: 0px;" required> <span style="font-size: 16px">(Bulan)</span><br>
+                <small style="margin-left: 10px;">(0.0 tahun)</small>
               </div>
               <div class="control-group">
                 <label>Pricing Pembiayaan</label>
-                <input type="text" name="bunga"> <span style="font-size: 16px">%/Tahun</span>
+                <input type="text" name="bunga" class="bungaPertahun" required style="margin-bottom: 0px;"> <span style="font-size: 16px">pricing/Tahun</span><br>
+                <small style="margin-left: 10px;">(0.0 %/bulan)</small>
               </div>
               <div class="control-group">
                 <button class="btn btn-primary">Simulasikan</button>

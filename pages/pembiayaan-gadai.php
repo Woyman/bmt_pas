@@ -45,6 +45,11 @@
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
+
+          <div>
+            <img src="assets/img/produk/gadai.jpg" class="botspacer50" width="400" style="max-height: 600px;">
+          </div>
+
       		<h4>Apa itu Pembiayaan Gadai? </h4>
               <p>Merupakan pembiayaan untuk memfasilitasi anggota/nasabah atas kebutuhan dana baik untuk hal produktif maupun non produktif dengan cara menahan terhadap suatu barang dengan hak sehingga dapat dijadikan sebagai sarana pembayaran dengan jangka waktu maksimal sampai dengan 3 bulan.</p>
             <h5>Jenis Pembiayan Gadai yang di layani :</h5>

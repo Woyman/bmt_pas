@@ -5,12 +5,17 @@ error_reporting(E_ALL & ~E_NOTICE);
 /*setlocale(LC_ALL, 'Indonesia');
 date_default_timezone_set('Asia/Jakarta');*/
 		include("inc/config/connection.php");
-		include("inc/variable.php");
 		include("inc/function.php");
-		// include("inc/pagename.php");
+		include("inc/variable.php");
+		
+		
+		$qGetInfoPengunjungVariable = "SELECT * FROM setting WHERE id_setting = '1' ";
+		$getInfoPengunjungVariable = mysqli_query($connect, $qGetInfoPengunjungVariable);
+		$infoPengunjungVariable = mysqli_fetch_array($getInfoPengunjungVariable);
+		$pengunjung = $infoPengunjungVariable['jml_pengunjung'];
 
 			if (!$page){
-					header("location: index.php?page=home");
+					header("location: home");
 			}
 			 else  if(!file_exists('pages/'.$page.'.php')) {
 			 	include("pages/404.php");

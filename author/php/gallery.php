@@ -1,7 +1,7 @@
 <?php 
 // session_start();	
-include("../../inc/variable.php");
 include("../../inc/function.php");
+include("../../inc/variable.php");
 include("../../inc/config/connection.php");
 
 if($actionPost == 'input-name')
@@ -23,7 +23,7 @@ elseif($actionPost == 'inputgambar')
 		header('location: ../index.php?page=gallery&message=20');
 
 	}else{
-		// print_r($_FILES['foto']);
+// 		print_r($_FILES['foto']);
 
 		$file = getNameFoto($_FILES['foto']);
 		$filename = $file['filename'];

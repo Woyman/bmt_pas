@@ -1,14 +1,15 @@
 <?php 
 
-include("../inc/variable.php");
 include("../inc/function.php");
+include("../inc/variable.php");
+session_start();
 ?>
 	
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>BMT PAS Bantul</title> 
+  <title>BMT Projo Artha Sejahtera Bantul</title> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="BMT Projo Artha Sejahtera adalah suatu lembaga Jasa Keuangan Syari’ah yang sistim operasionalnya berdasarkan pada prinsip-prinsip syariah Islam" name="description" >
   <meta name="author" content="BMT Projo Artha Sejahter">
@@ -103,8 +104,8 @@ include("../inc/function.php");
 		$jumlah = $angsuran_pokok+$angsuran_bunga; ?>
 
 		<pre style="width: 400px; position: relative; float: left;">
- Jumlah Pinjaman          = <b><?php echo buatrp($jumlah_pinjaman);?></b>
- Lama Pinjaman            = <b><?php echo $lama_pinjaman; ?> Bulan</b>
+ Jumlah Pembiayaan          = <b><?php echo buatrp($jumlah_pinjaman);?></b>
+ Lama Pembiayaan            = <b><?php echo $lama_pinjaman; ?> Bulan</b>
  Angsuran Pokok Per Bulan = <b><?php echo buatrp($angsuran_pokok);?></b>
  Margin/Keuntungan Per Bulan = <b><?php echo buatrp($angsuran_bunga);?></b>
 	                   _____________________ ( + )

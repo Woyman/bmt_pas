@@ -17,7 +17,7 @@
       <div class="row">
         <div class="span12">
           <ul class="breadcrumb notop">
-            <li><a href="index.php">BMT PAS </a><span class="divider">/</span></li>
+            <li><a href="index.php">BMT Projo Artha Sejahtera </a><span class="divider">/</span></li>
             <li class="active">Simulasi Pembiayaan Flat</li>
           </ul>
         </div>
@@ -71,8 +71,8 @@
 		$jumlah = $angsuran_pokok+$angsuran_bunga; ?>
 
 		<pre>
-		Jumlah Pinjaman          = <b><?php echo buatrp($jumlah_pinjaman);?></b>
-		Lama Pinjaman            = <b><?php echo $lama_pinjaman; ?> Bulan</b>
+		Jumlah Pembiayaan          = <b><?php echo buatrp($jumlah_pinjaman);?></b>
+		Lama Pembiayaan            = <b><?php echo $lama_pinjaman; ?> Bulan</b>
 		Angsuran Pokok Per Bulan = <b><?php echo buatrp($angsuran_pokok);?></b>
 		Margin/Keuntungan Per Bulan = <b><?php echo buatrp($angsuran_bunga);?></b>
 		                           _____________________ ( + )
@@ -82,6 +82,7 @@
 		$row=$jumlah_pinjaman;
 		$no=1;
 ?>
+	<div class="responsive" style="overflow-x: auto">
 	<table class="table zebra-table">
 		<tr>
 			<th>Angsuran ke -</th>
@@ -118,9 +119,10 @@
 			<td></td>
 		</tr>
 	</table>
+	</div>
 </div>
 
-<div class="centered" style="margin-bottom: 50px;">
+<div class="centered" style="margin: 50px 0;">
 	<a href="print/simulasi-flat.php" class="btn btn-primary" >
 		Print
 	</a>

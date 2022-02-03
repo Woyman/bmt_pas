@@ -1,0 +1,115 @@
+[18-Mar-2019 22:27:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/bmta5353/public_html/author/pages/cover.php on line 84
+[23-Mar-2019 20:11:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[23-Mar-2019 20:11:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/index.php(9): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 13:58:21 Asia/Jakarta] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bmta5353/public_html/author/pages/404.php on line 1
+[27-Jul-2019 13:58:21 Asia/Jakarta] PHP Warning:  include(../../layout/header.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/author/pages/404.php on line 2
+[27-Jul-2019 13:58:21 Asia/Jakarta] PHP Warning:  include(../../layout/header.php): failed to open stream: No such file or directory in /home/bmta5353/public_html/author/pages/404.php on line 2
+[27-Jul-2019 13:58:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../layout/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bmta5353/public_html/author/pages/404.php on line 2

@@ -1,6 +1,6 @@
 <?php
    // $qGetNGallery = "SELECT * FROM kegiatan";
-   $qgetAllPhoto = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan GROUP BY gallery.id_kegiatan";
+   $qgetAllPhoto = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan";
    // $GetNGallery = mysqli_query($connect, $qGetNGallery);
 ?>
 
@@ -23,7 +23,7 @@
       <div class="row">
         <div class="span12">
           <ul class="breadcrumb notop">
-            <li><a href="index.php">BMT PAS </a><span class="divider">/</span></li>
+            <li><a href="index.php">BMT Projo Artha Sejahtera</a><span class="divider">/</span></li>
             <li class="active">Gallery</li>
           </ul>
         </div>
@@ -44,11 +44,12 @@
               $url = 'assets/photo/'.$photo['nama_img'];
           ?>
 
-          <li class="portfolio-item2" data-id="id-0" data-type="web">
+          <li class="portfolio-item2" data-id="id-0" data-type="web" style="max-height: 255px;">
             <div class="span4">
               <div class="thumbnail">
                 <div class="image-wrapp">
                   <img src="<?= $url; ?>" alt="Portfolio name" title="" />
+                  <div class="centered" style="margin-top: 10px;"> <h5><?= $photo['nama_kegiatan'] ?></h5> </div>
                   <article class="da-animate da-slideFromRight" style="display: block;">
                     <h4><?= $photo['nama_kegiatan'] ?></h4>
                     <a href="index.php?page=detail-gallery&id=<?= $photo['id_kegiatan']; ?>"><i class="icon-rounded icon-48 icon-link"></i></a>
@@ -66,20 +67,6 @@
           ?>
 
         </ul>
-      </div>
-
-      <div id="deleteNameGallery" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h3 id="myModalLabel">Hapus Nama Gallery?</h3>
-        </div>
-        <div class="modal-body">
-          <p>Jika Anda menghapus nama gallery ini Anda akan juga menghapus semua foto/gambar yang sudah ditautkan dengan nama gallery ini. Anda yakin?</p>
-        </div>
-        <div class="modal-footer">
-          <button class="btn" data-dismiss="modal" aria-hidden="true">Batal</button>
-          <button class="btn btn-success yakin">Yakin dan Hapus</button>
-        </div>
       </div>
       <!-- <div class="row">
         <div class="span12">

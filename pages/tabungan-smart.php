@@ -53,6 +53,9 @@
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
+
+          <img src="assets/img/produk/tabungan-smart.jpg" class="botspacer50" height="600" style="max-height: 600px;">
+
       		<h4>Apa itu Tabungan SMART? </h4>
               <p>Tabungan SMART adalah <strong>simpanan akhir tahun,</strong> merupakan salah satu produk tabungan KSPPS BMT PAS yang dikerjasamakan dengan lembaga pendidikan/sekolah dalam rangka membantu  siswa-siswi  belajar untuk berbudaya menabung.</p>
               <p>	Dalil Al-qur’an : "Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu (pelit) dan janganlah kamu terlalu mengulurkannya (boros) karena itu kamu menjadi tercela dan menyesal. “QS. Al Isra' (17) ayat 29 </p>
@@ -80,20 +83,6 @@
 <li>Penarikan Saldo Tabungan SMART dilakuakan pada saat kenaikan kelas/ ganti tahun ajaran
 </li>
               </ol>
-
-              <h5>Table Tabungan IBADAH</h5>
-              <img src="assets/img/table-tabungan-simbah.png" width="700">
-              <br><br>
-
-              <strong>
-              <h6>Catatan :</h6>
-              <ol>
-                <li>Nilai Bagi Hasil tiap bulan di atas hanya gambaran nilai rata-rata pembulatan 
-	salama 5 tahun terakhir di KSPPS BMT PAS
-</li>
-               
-              </ol>
-              </strong>
 
 
       </div>

@@ -41,9 +41,11 @@
                 </div>
                 <div class="btn-toolbar cta">
                   <a class="btn btn-large btn-color" href="index.php?page=gallery">
-              <i class="icon-picture icon-white"></i> Gallery </a>
-                  <a class="btn btn-large btn-color" href="index.php?page=setting-profile">
-              <i class="icon-cogs icon-white"></i> Setting & Profile </a>
+                      <i class="icon-picture icon-white"></i> Gallery </a>
+                  <a class="btn btn-large btn-color" href="index.php?page=tambah-berita">
+                      <i class="icon-th-list icon-white"></i> Berita</a>
+                  <a class="btn btn-large btn-color" href="index.php?page=cover">
+                      <i class="icon-picture icon-white"></i> Cover</a>
                 </div>
               </div>
             </div>

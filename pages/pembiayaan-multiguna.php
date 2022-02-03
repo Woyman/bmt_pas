@@ -45,6 +45,11 @@
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
+
+          <div>
+            <img src="assets/img/produk/multigunarenovasi.jpg" class="botspacer50" height="600" style="max-height: 600px;">
+          </div>
+
       		<h4>Apa itu Pembiayaan Multi Guna? </h4>
               <p>Merupakan pembiayaan untuk memfasilitasi anggota/nasabah dalam memenuhi kebutuhan jasa keperluan non produktif dengan jangka waktu maksimal sampai dengan 36 bulan.</p>
             <h5>Jenis Pembiayan yang di layani :</h5>

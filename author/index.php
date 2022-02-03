@@ -5,9 +5,9 @@ error_reporting(E_ALL & ~E_NOTICE);
 /*setlocale(LC_ALL, 'Indonesia');
 date_default_timezone_set('Asia/Jakarta');*/
 		include("../inc/config/connection.php");
-		
-		include("../inc/variable.php");
 		include("../inc/function.php");
+		include("../inc/variable.php");
+		
 
 		include("session.php");
 		// include("inc/pagename.php");

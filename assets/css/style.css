@@ -89,7 +89,7 @@ img.left {
 }
 
 .features h4 {
-  margin-top: 10px;
+  margin-top: 2px;
 }
 
 /* logo */
@@ -97,18 +97,10 @@ img.left {
 header .navbar .brand.logo {
   padding: 0;
   margin-left: 0;
-  /*margin-top: 20px;*/
+  display: flex;
 }
 
 /* header */
-
-.navbar{
-  margin-bottom: 0px 
-}
-
-.navbar .navbar-inner .container{
-  width: 1170px;
-}
 
 .navbar .nav {
   margin-top: 5px;
@@ -142,7 +134,6 @@ header .navbar .brand.logo {
 
 .navbar ul.topnav {
   float: right;
-  margin-right: 50px;
 }
 
 .navbar .nav>li>a {
@@ -252,7 +243,7 @@ section#intro {
   background: #f5f5f5 url(../img/head-shadow.png) no-repeat top center;
   height: auto;
   margin: 0 auto;
-  /*margin-top: 80px;*/
+  margin-top: 80px;
   padding: 0;
   border-bottom: 1px solid #e9e9e9;
   padding-top: 30px;
@@ -278,7 +269,7 @@ section#subintro {
   height: auto;
   margin: 0 auto;
   padding: 0;
-  /*margin-top: 80px;*/
+  margin-top: 80px;
 }
 
 /* divider */
@@ -448,7 +439,6 @@ ul.filter li.active a {
   position: relative;
   padding: 0;
   overflow: hidden;
-  min-height: 255px;
   border: nonw;
 }
 
@@ -554,7 +544,7 @@ ul.filter li.active a {
 
 .da-thumbs li article {
   text-align: center;
-  padding-top: 15%;
+  padding-top: 25%;
 }
 
 .da-thumbs li article em {
@@ -786,6 +776,9 @@ article.blog-post img.thumbnail {
   margin-bottom: 0;
 }
 
+article.blog-post p {
+  text-align: justify;
+}
 /* ====== post format ================ */
 
 .post-quote blockquote {
@@ -1498,7 +1491,8 @@ blockquote p {
 /* footer */
 
 footer {
-  padding-top: 30px;
+  margin: 0 -20px;
+  padding: 20px 20px 0;
   color: #7e7e7e;
 }
 
@@ -1565,7 +1559,8 @@ footer .twitter li {
 }
 
 footer .logo img {
-  margin-bottom: 20px;
+  width: 150px;
+  margin: 0 auto 20px;
 }
 
 .credits {
@@ -1830,7 +1825,6 @@ img.alignright {
   }
   .navbar-fixed-top {
     margin-bottom: 15px;
-    /*position: relative;*/
   }
   #slider_holder {
     margin-top: 30px;
@@ -1860,10 +1854,14 @@ img.alignright {
 }
 
 @media (max-width: 767px) {
-  .navbar .navbar-inner .container .logo {
-
+  .navbar .navbar-inner .container {
     padding-left: 20px;
     padding-right: 20px;
+  }
+  header .navbar .brand.logo {
+    width: 100%;
+    padding: 0;
+    justify-content: center;
   }
   #slider_holder {
     margin-top: 30px;
@@ -1883,12 +1881,10 @@ img.alignright {
   }
   nav select {
     display: block;
-    width: 50%;
+    width: 100%;
     float: right;
-    margin-bottom: 20px;
     color: #111;
-    margin-top: 20px;
-    margin-right: 20px;
+    margin: 20px 0;
     line-height: 30px;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -1931,6 +1927,9 @@ img.alignright {
     padding-right: 20px;
     margin-left: -20px;
     margin-right: -20px;
+  }
+  footer .logo img {
+    text-align: center;
   }
   .verybottom {
     padding-left: 20px;
@@ -1991,3 +1990,4 @@ img.alignright {
     margin-top: 20px;
   }
 }
+ 

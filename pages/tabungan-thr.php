@@ -48,6 +48,11 @@
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
+
+          <div>
+            <img src="assets/img/produk/ketupat.jpg" class="botspacer50" height="600" style="max-height: 600px;">
+          </div>
+
         <h4>Apa itu Tabungan THR ?</h4>
         <p>THR adalah merupakan salah satu produk tabungan KSPPS BMT PAS yang membantu  anggota/nasabah mewujudkan kebahagiaan di hari raya iedul fitri.</p>
 <p>Dalil Al-qur’an : "Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu (pelit) dan janganlah kamu terlalu mengulurkannya (boros) karena itu kamu menjadi tercela dan menyesal. “QS. Al Isra' (17) ayat 29 </p>

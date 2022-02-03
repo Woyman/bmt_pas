@@ -13,15 +13,35 @@
   <script src="assets/js/hover/jquery-hover-effect.js"></script>
   <script src="assets/js/jquery.priceformat.min.js"></script>
   <script src="assets/js/hover/setting.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
 
   <!-- Template Custom JavaScript File -->
   <script src="assets/js/custom.js"></script>
+  <script src="assets/kalZakat.js"></script>
+  <script src="contactform/contactform.js"></script>
   <script type="text/javascript">
       
       $('#print').click(function(){
 
         window.print();
 
+      });
+
+      $('.bungaPertahun').keyup(function(){
+        var value = $(this).val()/12.00;
+        // alert(value);
+        if(isNaN(value))
+          { 
+            alert('Masukkan Angka saja');
+            $(this).val('');
+          }else{
+            $(this).parent().children('small').html('('+value.toFixed(2)+' %/bulan)');    
+          }
+      });
+
+      $('.lamaPembiayaan').keyup(function(){
+        var value = $(this).val()/12;
+        $(this).parent().children('small').html('('+value.toFixed(2)+' tahun)');
       });
 
     function printDiv(divName){
@@ -37,9 +57,32 @@
         prefix: 'Rp.',
         centsLimit: 0,
         clearPrefix: true,
-        clearOnEmpty: true,
+        clearOnEmpty: false,
         thousandsSeparator: '.',
 
+      });
+
+      $('.onlyInt').priceFormat({
+        clearPrefix: true,
+        clearOnEmpty: true,
+        centsLimit: 0,
+        prefix: '',
+      });
+
+      $('.bungaOnly').priceFormat({
+        clearPrefix: true,
+        clearOnEmpty: true,
+        centsLimit: 2,
+        prefix: '',
+      });
+
+     $('.persen').priceFormat({
+        clearPrefix: true,
+        clearSuffix: true,
+        clearOnEmpty: true,
+        centsLimit: 2,
+        prefix: '',
+        suffix: ' %'
       });
 
   </script>

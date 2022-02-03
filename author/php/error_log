@@ -1,0 +1,159 @@
+[03-Mar-2019 10:40:42 UTC] PHP Warning:  unlink(../../assets/photo/5c7a07a5e928c.jpeg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:40:44 UTC] PHP Warning:  unlink(../../assets/photo/5c7a07971d364.jpeg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:40:46 UTC] PHP Warning:  unlink(../../assets/photo/5c7a075c2be50.jpeg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:40:49 UTC] PHP Warning:  unlink(../../assets/photo/5c78d35f44a2d.JPG): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:40:51 UTC] PHP Warning:  unlink(../../assets/photo/5c78d31cea1ac.JPG): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:40:56 UTC] PHP Warning:  unlink(../../assets/photo/5c78d25b9eb04.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:40:58 UTC] PHP Warning:  unlink(../../assets/photo/5c78d24da558d.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:40:59 UTC] PHP Warning:  unlink(../../assets/photo/5c78d242a2767.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:01 UTC] PHP Warning:  unlink(../../assets/photo/5c78d1aa81695.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:03 UTC] PHP Warning:  unlink(../../assets/photo/5c78d18b8d99c.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:05 UTC] PHP Warning:  unlink(../../assets/photo/5c78d13d7ad39.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:07 UTC] PHP Warning:  unlink(../../assets/photo/5c78cf6e0ca5a.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:09 UTC] PHP Warning:  unlink(../../assets/photo/5c78cf2c8ba6f.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:11 UTC] PHP Warning:  unlink(../../assets/photo/5c78cf0464d7e.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:12 UTC] PHP Warning:  unlink(../../assets/photo/5c78b34da6b03.JPG): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:14 UTC] PHP Warning:  unlink(../../assets/photo/5c78b2dee749e.JPG): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:16 UTC] PHP Warning:  unlink(../../assets/photo/5c78b26bac593.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:18 UTC] PHP Warning:  unlink(../../assets/photo/5c78b249677fd.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:20 UTC] PHP Warning:  unlink(../../assets/photo/5c78b1fc73a93.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:23 UTC] PHP Warning:  unlink(../../assets/photo/5c78b147d4ea1.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:25 UTC] PHP Warning:  unlink(../../assets/photo/5c78ae55a06fd.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[03-Mar-2019 10:41:27 UTC] PHP Warning:  unlink(../../assets/photo/5c78ae335c637.jpg): No such file or directory in /home/bmta5353/public_html/author/php/gallery.php on line 48
+[17-Mar-2019 13:50:31 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/bmta5353/public_html/inc/variable.php on line 2
+[18-Mar-2019 08:47:07 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/bmta5353/public_html/inc/variable.php on line 2
+[18-Mar-2019 22:26:18 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/bmta5353/public_html/inc/variable.php on line 2
+[19-Mar-2019 19:15:56 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/bmta5353/public_html/inc/variable.php on line 2
+[20-Mar-2019 19:28:13 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/bmta5353/public_html/inc/variable.php on line 2
+[23-Mar-2019 17:07:13 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/bmta5353/public_html/inc/variable.php on line 2
+[23-Mar-2019 17:07:13 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:07:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 17:31:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:31:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 17:31:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:31:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 17:38:05 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:38:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 17:45:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:45:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 17:46:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:46:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 17:47:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:47:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 17:49:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:49:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 17:50:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:50:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 17:52:14 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bmta5353/public_html/inc/variable.php on line 40
+[23-Mar-2019 17:52:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bmta5353/public_html/inc/variable.php on line 41
+[23-Mar-2019 20:12:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/login-author.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 14:51:06 Asia/Jakarta] PHP Warning:  unlink(../../assets/berita/5d3c022796e69.): No such file or directory in /home/bmta5353/public_html/author/php/berita.php on line 49
+[27-Jul-2019 14:53:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 14:54:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 14:54:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 14:54:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 14:55:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 14:55:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 15:03:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 15:07:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 15:07:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 15:12:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/gallery.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 15:33:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/cover.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 15:33:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/cover.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 15:33:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/cover.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 15:34:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/cover.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[27-Jul-2019 15:34:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/bmta5353/public_html/inc/variable.php:34
+Stack trace:
+#0 /home/bmta5353/public_html/author/php/cover.php(3): include()
+#1 {main}
+  thrown in /home/bmta5353/public_html/inc/variable.php on line 34
+[15-Aug-2019 20:35:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmta5353/public_html/author/php/berita.php:27) in /home/bmta5353/public_html/author/php/berita.php on line 36
+[15-Aug-2019 20:35:52 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmta5353/public_html/author/php/berita.php:27) in /home/bmta5353/public_html/author/php/berita.php on line 36
+[15-Aug-2019 20:36:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmta5353/public_html/author/php/berita.php:27) in /home/bmta5353/public_html/author/php/berita.php on line 36
+[15-Aug-2019 20:37:45 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmta5353/public_html/author/php/berita.php:27) in /home/bmta5353/public_html/author/php/berita.php on line 36
+[15-Aug-2019 20:37:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmta5353/public_html/author/php/berita.php:27) in /home/bmta5353/public_html/author/php/berita.php on line 36
+[10-Oct-2019 11:26:03 Asia/Jakarta] PHP Warning:  unlink(../../assets/berita/5d9adcb517a66.): No such file or directory in /home/bmta5353/public_html/author/php/berita.php on line 73
+[20-May-2020 13:44:57 Asia/Jakarta] PHP Warning:  unlink(../../assets/berita/5e96b8e53cee2.): No such file or directory in /home/bmta5353/public_html/author/php/berita.php on line 73
+[20-Jan-2021 11:23:05 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmta5353/public_html/author/php/berita.php:31) in /home/bmta5353/public_html/author/php/berita.php on line 40
+[20-Jan-2021 11:28:55 Asia/Jakarta] PHP Warning:  unlink(../../assets/berita/6007b029c60f4.): No such file or directory in /home/bmta5353/public_html/author/php/berita.php on line 53
+[20-Jan-2021 11:40:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmta5353/public_html/author/php/berita.php:31) in /home/bmta5353/public_html/author/php/berita.php on line 40
+[23-Jan-2021 12:04:20 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmta5353/public_html/author/php/berita.php:31) in /home/bmta5353/public_html/author/php/berita.php on line 40
+[23-Jan-2021 12:04:32 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmta5353/public_html/author/php/berita.php:31) in /home/bmta5353/public_html/author/php/berita.php on line 40
+[05-May-2021 09:46:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmtj3557/public_html/author/php/berita.php:37) in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 09:47:21 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmtj3557/public_html/author/php/berita.php:37) in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 09:54:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmtj3557/public_html/author/php/berita.php:37) in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:05:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:05:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:05:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:05:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:06:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:07:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:08:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:10:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:12:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 46
+[05-May-2021 10:18:29 Asia/Jakarta] PHP Warning:  unlink(../../assets/photo/): Is a directory in /home/bmtj3557/public_html/author/php/gallery.php on line 48
+[05-May-2021 10:21:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/bmtj3557/public_html/author/php/berita.php on line 40
+[05-May-2021 10:22:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmtj3557/public_html/author/php/berita.php:31) in /home/bmtj3557/public_html/author/php/berita.php on line 40
+[05-May-2021 10:54:08 Asia/Jakarta] PHP Warning:  unlink(../../assets/berita/609216d84d496.): No such file or directory in /home/bmtj3557/public_html/author/php/berita.php on line 73
+[30-Aug-2021 15:39:18 Asia/Jakarta] PHP Warning:  unlink(../../assets/berita/612c982161e6f.): No such file or directory in /home/bmtj3557/public_html/author/php/berita.php on line 73
+[01-Sep-2021 09:09:16 Asia/Jakarta] PHP Warning:  unlink(../../assets/berita/600bae5489a41.): No such file or directory in /home/bmtj3557/public_html/author/php/berita.php on line 53

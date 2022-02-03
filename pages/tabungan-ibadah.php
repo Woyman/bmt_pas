@@ -52,6 +52,9 @@
         </div>
 
         <div class="span9" style="margin-bottom: 60px">
+
+          <img src="assets/img/produk/deposito.jpg" class="botspacer50" height="600" style="max-height: 600px;">
+
       		<h4>Apa itu Tabungan IBADAH? </h4>
               <p>IBADAH adalah Investasi Berjangka Mudharobah, merupakan salah satu produk tabungan berjangka/deposito
 			  KSPPS BMT PAS yang membantu  anggota/nasabah mendapatkan bagi hasil lebih tinggi dari pada tabungan berjangka/deposito di bank, dan sistem penyetoran serta penarikannya hanya bisa dilakukan setelah melewati waktu tertentu.
