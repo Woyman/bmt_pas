@@ -84,7 +84,7 @@
           <label id="jumlahZakatPer1Tahun"><strong>Rp. 0</strong></label>
         </div>
       </div>
-      <div class="span5 well" >
+      <div class="span5 well">
         <h4>Zakat Profesi</h4>
         <!-- <p>*ketikkan nol '0' apabila tidak ada nilai.</p> -->
         <div class="form-group">

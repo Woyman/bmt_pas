@@ -14,8 +14,8 @@
       </div>
     </div>
 </section>
-<section id="breadcrumb"
->    <div class="container">
+<section id="breadcrumb">
+    <div class="container">
       <div class="row">
         <div class="span12">
           <ul class="breadcrumb notop">
