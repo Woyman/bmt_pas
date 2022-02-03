@@ -7,7 +7,7 @@ $psw = "";
 
 // $dbname = "bmta5353_db";
 // $user = "bmta5353_userDB";
-// $psw = "EBur{!C3xd=t";
+// $psw = "EBur{!C3xd=t"; //bmtpas_dbuser123
 // $password = addslashes($psw);
 
 
