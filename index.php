@@ -1,4 +1,5 @@
 <?php
+echo "<pre>";
 var_export($_SERVER); die();
 // ob_start();
 // session_start();
