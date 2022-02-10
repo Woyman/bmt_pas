@@ -25,9 +25,9 @@
                     <?php if( $page == 'pembiayaan-konsumtif' ||$page == 'pembiayaan-produktif' || $page == 'pembiayaan-multiguna' || $page == 'pembiayaan-gadai' || $page == 'tabungan-saham' || $page == 'tabungan-qurban' || $page == 'tabungan-thr' || $page == 'tabungan-tasbih' || $page == 'tabungan-smart' || $page == 'tabungan-ibadah' || $page == 'ppob-absindo'  )
                     {echo "active ";} ?> ?>
                   ">
-                    <a href="../index.php?page=#">PRODUK & LAYANAN</a>
+                    <a href="#">PRODUK & LAYANAN</a>
                     <ul class="dropdown-menu">
-            					<li class="dropdown"><a href="../index.php?page=#">Pembiayaan <i class="icon-chevron-right" style="float: right; margin-top: 5px"></i></a>
+            					<li class="dropdown"><a href="#">Pembiayaan <i class="icon-chevron-right" style="float: right; margin-top: 5px"></i></a>
                          <ul class="dropdown-menu sub-menu">
                           <li><a href="../index.php?page=pembiayaan-produktif">Pembiayaan Produktif</a></li>
                           <li><a href="../index.php?page=pembiayaan-konsumtif">Pembiayaan Konsumtif</a></li>
@@ -35,7 +35,7 @@
                           <li><a href="../index.php?page=pembiayaan-gadai">Pembiayaan Gadai</a></li>
                         </ul>
                       </li>
-                      <li class="dropdown"><a href="../index.php?page=#">Tabungan <i class="icon-chevron-right" style="float: right; margin-top: 5px"></i></a>
+                      <li class="dropdown"><a href="#">Tabungan <i class="icon-chevron-right" style="float: right; margin-top: 5px"></i></a>
                         <ul class="dropdown-menu sub-menu">
                           <li><a href="../index.php?page=tabungan-saham">Tabungan Saham</a></li>
                           <li><a href="../index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
@@ -54,7 +54,7 @@
                     <a href="../index.php?page=gallery">GALERI</a>
                   </li>
                   <li class='dropdown <?php if($page == 'profile' ){echo "active ";} ?>'  >                    
-                    <a href="../index.php?page=#">TENTANG KAMI</a>
+                    <a href="#">TENTANG KAMI</a>
                       <ul class="dropdown-menu">                        
                         <li><a href="../index.php?page=profil">Profil</a></li>
                         <li><a href="../index.php?page=manajemen">Manajemen</a></li>
@@ -66,7 +66,7 @@
                     <a href="../index.php?page=hubungi-kami">HUBUNGI KAMI</a>
                   </li>
                   <li class="dropdown hover" >
-                    <a href="../index.php?page=#" style="color: #000;"><i class="icon-calendar icon-rounded"></i>Simulasi Perhitungan</a>
+                    <a href="#" style="color: #000;"><i class="icon-calendar icon-rounded"></i>Simulasi Perhitungan</a>
                     <ul class="dropdown-menu">
                       <li><a href="../index.php?page=simulasi" style="color: #000;"></i>Simulasi Pembiayaan</a></li>
                       <li><a href="../index.php?page=kalkulator-zakat" style="color: #000;">Kalkulator Zakat</a>
