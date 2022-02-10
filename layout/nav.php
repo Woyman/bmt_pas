@@ -88,7 +88,7 @@
                     <a href="index.php?page=berita">BERITA</a>
                   </li>
                   <li class="dropdown">
-                    <a href="index.php?page=#">PRODUK & LAYANAN <i class="icon-chevron-down dropdown-icon"></i> </a>
+                    <a href="javascript:void(0)">PRODUK & LAYANAN <i class="icon-chevron-down dropdown-icon"></i> </a>
                     <ul class="dropdown-container">
             					<li class="dropdown">
                           <a href="index.php?page=#">Pembiayaan <i class="icon-chevron-down dropdown-icon"></i></a>
