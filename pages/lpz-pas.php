@@ -5,7 +5,7 @@
           <div class="span12">
             <div class="centered">
 
-              <h3>LPZ PAS - LAZNAS BSM</h3>
+              <h3>LPZ PAS - LAZNAS DEWAN DAKWAH</h3>
 
               
             </div>
@@ -21,7 +21,7 @@
           <ul class="breadcrumb notop">
             <li><a href="index.php">BMT Projo Artha Sejahtera </a><span class="divider">/</span></li>
 
-            <li class="active">LPZ PAS - LAZNAS BSM</li>
+            <li class="active">LPZ PAS - LAZNAS DEWAN DAKWAH</li>
           </ul>
         </div>
       </div>  
@@ -36,8 +36,8 @@
       <div class="row">
         <img src="assets/img/lpz-pas_laznas-bsm.jpeg" class="botspacer50 centered" height="600" style="max-height: 600px">
     
-    <p><b>LAZNAS BSM Umat</b> adalah Lembaga Amil Zakat Nasional milik Bank Mandiri Syari’ah, salah satu perbankan syari’ah Nasional terbesar di Indonesia.<p>
-    <p><b>Lembaga Pengelola Zakat KSPPS BMT Projo Artha Sejahtera </b>adalah Lembaga Pengelola Zakat yang selanjutnya disingkat LPZ PAS adalah satuan organisasi yang dibentuk oleh LAZNAS BSM Umat untuk membantu pengumpulan zakat di wilayah DIY.</p>
+    <p><b>LAZNAS DEWAN DAKWAH Umat</b> adalah Lembaga Amil Zakat Nasional milik Bank Mandiri Syari’ah, salah satu perbankan syari’ah Nasional terbesar di Indonesia.<p>
+    <p><b>Lembaga Pengelola Zakat KSPPS BMT Projo Artha Sejahtera </b>adalah Lembaga Pengelola Zakat yang selanjutnya disingkat LPZ PAS adalah satuan organisasi yang dibentuk oleh LAZNAS DEWAN DAKWAH Umat untuk membantu pengumpulan zakat di wilayah DIY.</p>
 
   <h5><b>Pengelolaan zakat,infaq, shodaqoh bertujuan:</b></h5>
 

@@ -55,7 +55,7 @@ $GetBeritaRecent = mysqli_query($connect, $qGetBeritaRecent);
           ?>
           <article class="blog-post">
             <div class="post-heading">
-              <h3><a href="p/<?php echo $berita['link_berita'] ?>"><?php echo $berita['judul'] ?></a></h3>
+              <h3><a href="p/index.php?p=<?php echo $berita['link_berita'] ?>"><?php echo $berita['judul'] ?></a></h3>
             </div>
             <div class="row">
               <div class="span3">
@@ -70,7 +70,7 @@ $GetBeritaRecent = mysqli_query($connect, $qGetBeritaRecent);
                 <div class="clearfix">
                 </div>
                 <?php echo $berita['summary_berita'] ?>
-                <div><a href="p/<?php echo  $berita['link_berita'] ?>" class="btn btn-small btn-success" >Lihat</a></div>
+                <div><a href="p/index.php?p=/<?php echo  $berita['link_berita'] ?>" class="btn btn-small btn-success" >Lihat</a></div>
               </div>
             </div>
           </article>
@@ -123,7 +123,7 @@ $GetBeritaRecent = mysqli_query($connect, $qGetBeritaRecent);
 
                 <li>
                   <div class="span3" style="margin-left: 0px">
-                    <a href="p/<?php echo $recent['link_berita'] ?>"><?php echo $recent['judul'] ?></a>
+                    <a href="p/index.php?p=<?php echo $recent['link_berita'] ?>"><?php echo $recent['judul'] ?></a>
                     <div class="clear">
                     </div>
                     <span class="date"><i class="icon-calendar"></i> <?php echo $dateRecent ?></span>

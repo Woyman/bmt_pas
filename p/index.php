@@ -38,8 +38,8 @@ date_default_timezone_set('Asia/Jakarta');*/
       <div class="row">
         <div class="span12">
           <ul class="breadcrumb notop">
-            <li><a href="../">BMT Projo Artha Sejahtera </a><span class="divider">/</span></li>
-            <li class="active"><a href="../berita">Berita</a> <span class="divider">/</span></li>
+            <li><a href="../index.php">BMT Projo Artha Sejahtera </a><span class="divider">/</span></li>
+            <li class="active"><a href="../index.php?page=berita">Berita</a> <span class="divider">/</span></li>
             <li class="active"><?php echo $berita['judul'] ?></li>
           </ul>
         </div>
