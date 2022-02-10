@@ -12,7 +12,7 @@ date_default_timezone_set('Asia/Jakarta');*/
 		$qGetInfoPengunjungVariable = "SELECT * FROM setting WHERE id_setting = '1' ";
 		$getInfoPengunjungVariable = mysqli_query($connect, $qGetInfoPengunjungVariable);
 		echo "<pre>";
-		print_r($getInfoPengunjungVariable); die();
+		print_r($getInfoPengunjungVariable);
 		$infoPengunjungVariable = mysqli_fetch_array($getInfoPengunjungVariable);
 		$pengunjung = $infoPengunjungVariable['jml_pengunjung'];
 
