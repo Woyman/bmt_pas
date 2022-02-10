@@ -15,7 +15,7 @@ date_default_timezone_set('Asia/Jakarta');*/
 		$pengunjung = $infoPengunjungVariable['jml_pengunjung'];
 
 			if (!$page){
-					header("location: home");
+					header("location: index.php?page=home");
 			}
 			 else  if(!file_exists('pages/'.$page.'.php')) {
 			 	include("pages/404.php");
