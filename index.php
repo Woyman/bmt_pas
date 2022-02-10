@@ -1,7 +1,7 @@
 <?php
 ob_start();
 session_start();
-error_reporting(E_ALL & ~E_NOTICE);
+error_reporting(E_ALL);
 /*setlocale(LC_ALL, 'Indonesia');
 date_default_timezone_set('Asia/Jakarta');*/
 		include("inc/config/connection.php");
