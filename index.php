@@ -9,7 +9,7 @@ date_default_timezone_set('Asia/Jakarta');*/
 		include("inc/variable.php");
 		
 		
-		$qGetInfoPengunjungVariable = "SELECT * FROM setting WHERE id_setting = '1' ";
+		echo $qGetInfoPengunjungVariable = "SELECT * FROM setting WHERE id_setting = '1' ";
 		$getInfoPengunjungVariable = mysqli_query($connect, $qGetInfoPengunjungVariable);
 		echo "<pre>";
 		print_r($getInfoPengunjungVariable);
