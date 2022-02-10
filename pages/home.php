@@ -1,6 +1,6 @@
 <?php 
 include("inc/counter_pengunjung_web.php");
-    $qGetGallerGrouped = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan GROUP BY gallery.id_kegiatan ORDER BY gallery.id_kegiatan DESC limit 6";
+    $qGetGallerGrouped = "SELECT * FROM gallery JOIN kegiatan ON gallery.id_kegiatan = kegiatan.id_kegiatan ORDER BY gallery.id_kegiatan DESC limit 6";
     $qGetRecentBerita = "SELECT * FROM berita ORDER BY id_berita DESC limit 4 ";
 ?>
 
@@ -108,7 +108,7 @@ include("inc/counter_pengunjung_web.php");
           </div>
         <ul class="portfolio-area da-thumbs">
           
-          <?php 
+          <?php           
             $getAllPhoto = mysqli_query($connect, $qGetGallerGrouped); 
             while($photo = mysqli_fetch_assoc($getAllPhoto)){ 
               $url = 'assets/photo/'.$photo['nama_img'];
