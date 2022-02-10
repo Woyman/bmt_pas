@@ -70,7 +70,7 @@ $GetBeritaRecent = mysqli_query($connect, $qGetBeritaRecent);
                 <div class="clearfix">
                 </div>
                 <?php echo $berita['summary_berita'] ?>
-                <div><a href="p/index.php?p=/<?php echo  $berita['link_berita'] ?>" class="btn btn-small btn-success" >Lihat</a></div>
+                <div><a href="p/index.php?p=<?php echo  $berita['link_berita'] ?>" class="btn btn-small btn-success" >Lihat</a></div>
               </div>
             </div>
           </article>
