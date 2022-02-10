@@ -2,8 +2,8 @@
 
 
 $dbname = "bmtpas_db";
-$user = "root";
-$psw = "";
+$user = "bmtpas_dbuser";
+$psw = "bmtpas_dbuser123";
 
 
 // $dbname = "bmta5353_db";
