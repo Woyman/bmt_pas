@@ -19,8 +19,8 @@ $psw = "bmtpas_dbuser123";
 $connect =  mysqli_connect("localhost",$user,$psw, $dbname);   
 
 if ($connect -> connect_errno) {
-    echo "Failed to connect to MySQL: " . $mysqli -> connect_error;
-    exit();
+    echo "Failed to connect to MySQL: " . $connect -> connect_error;
+    die();
   }
 
 ?>
