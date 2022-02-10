@@ -70,7 +70,7 @@ include("inc/counter_pengunjung_web.php");
             ?>
             <div class="span3">
                 <div class="post-image">
-                  <a href="p/<?php echo $berita['link_berita'] ?>">
+                  <a href="p/index.php?p=<?php echo $berita['link_berita'] ?>">
                     <img src="assets/berita/<?php echo $berita['img_berita'] ?>" alt="">
                   </a>
                 </div>
@@ -80,7 +80,7 @@ include("inc/counter_pengunjung_web.php");
                 </div>
                 <!-- end .entry-meta -->
                 <div class="entry-body">
-                  <a href="p/<?php echo $berita['link_berita'] ?>">
+                  <a href="p/index.php?p=<?php echo $berita['link_berita'] ?>">
                     <h5 class="title"><?php echo $berita['judul'] ?></h5>
                   </a>
                   <p>
