@@ -28,21 +28,7 @@
 
 <section id="maincontent">
     <div class="container">
-      <div class="row">
-
-      <div class="span3">
-          <aside>
-            <div class="widget">
-              <h4>Produk & Layanan Lainnya</h4>
-              <ul class="cat">
-                    <li><a href="index.php?page=pembiayaan-produktif">Pembiayaan Produktif</a></li>
-                    <li><a href="index.php?page=pembiayaan-konsumtif">Pembiayaan Konsumtif</a></li>
-                    <li><a href="index.php?page=pembiayaan-multiguna">Pembiayaan Multiguna</a></li>
-                    <li><a href="index.php?page=pembiayaan-gadai">Pembiayaan Gadai</a></li>
-              </ul>
-            </div>
-          </aside>
-        </div>
+      <div class="row">        
 
         <div class="span9" style="margin-bottom: 60px">
 
@@ -80,6 +66,22 @@
               <img src="assets/img/table-pembiayaan-multiguna.png">
               <h6>Catatan</h6>
               <strong><p>*Perhitungan diatas masih bisa berubah sesuai kesepakatan.</p></strong>
+              <p><strong>Mau Pembiayaan silahkan mengisi Form Google berikut : <a target="_blank" href="https://shorturl.at/euRTW">https://shorturl.at/euRTW</a></strong></p>
+        </div>
+
+        <div class="span3">
+          <aside>
+            <div class="widget">
+              <h4>Produk & Layanan Lainnya</h4>
+              <ul class="cat">
+                    <li><a href="index.php?page=pembiayaan-produktif">Pembiayaan Produktif</a></li>
+                    <li><a href="index.php?page=pembiayaan-konsumtif">Pembiayaan Konsumtif</a></li>
+                    <li><a href="index.php?page=pembiayaan-multiguna">Pembiayaan Multiguna</a></li>
+                    <li><a href="index.php?page=pembiayaan-gadai">Pembiayaan Gadai</a></li>
+              </ul>
+            </div>
+          </aside>
+        </div>
 
       </div>
     </div>
