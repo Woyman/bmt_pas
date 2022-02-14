@@ -35,23 +35,6 @@
     <div class="container">
       <div class="row">
 
-      <div class="span3">
-          <aside>
-            <div class="widget">
-              <h4>Produk & Layanan Lainnya</h4>
-              <ul class="cat">
-                    <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
-                    <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
-                    <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
-                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
-                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
-                    <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
-                    <li><a href="index.php?page=tabungan-smart">Tabungan Smart</a></li>
-              </ul>
-            </div>
-          </aside>
-        </div>
-
         <div class="span9" style="margin-bottom: 60px">
 
           <img src="assets/img/produk/tabungan-smart.jpg" class="botspacer50" height="600" style="max-height: 600px;">
@@ -75,15 +58,33 @@
               <h5>Apa saja syarat dan ketentuan membuka rekening Tabungan SMART?</h5>
               <ol>
                 <li>Mendaftarkan/terdaftar sebagai anggota BMT PAS dibawah perwalian orang tua</li>
-<li>Menyerahkan Fotokopi KK dan KTP orang tua wali</li>
-<li>	Menandatangani surat pernyataan tentang hak dan kewajiban Program SMART</li>
-<li>Menyetorkan Pembukaan Rekening dengan Saldo minimal Rp. 20.000-,</li>
-<li>	Peyetoran saldo berikutnya minimal Rp. 10.000-,</li>
-<li>Penyetoran bisa dilayani di lembaga pendidikan yang sudah kerjasama</li>
-<li>Penarikan Saldo Tabungan SMART dilakuakan pada saat kenaikan kelas/ ganti tahun ajaran
-</li>
+                <li>Menyerahkan Fotokopi KK dan KTP orang tua wali</li>
+                <li>	Menandatangani surat pernyataan tentang hak dan kewajiban Program SMART</li>
+                <li>Menyetorkan Pembukaan Rekening dengan Saldo minimal Rp. 20.000-,</li>
+                <li>	Peyetoran saldo berikutnya minimal Rp. 10.000-,</li>
+                <li>Penyetoran bisa dilayani di lembaga pendidikan yang sudah kerjasama</li>
+                <li>Penarikan Saldo Tabungan SMART dilakuakan pada saat kenaikan kelas/ ganti tahun ajaran</li>
               </ol>
 
+              <p><strong>Mulai Menabung di BMT PAS : <a target="_blank" href="https://shorturl.at/eqsvF">https://shorturl.at/eqsvF</a></strong></p>
+        </div>
+
+        <div class="span3">
+          <aside>
+            <div class="widget">
+              <h4>Produk & Layanan Lainnya</h4>
+              <ul class="cat">
+                    <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
+                    <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
+                    <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
+                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
+                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
+                    <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
+                    <li><a href="index.php?page=tabungan-smart">Tabungan Smart</a></li>
+              </ul>
+            </div>
+          </aside>
+        </div>
 
       </div>
     </div>

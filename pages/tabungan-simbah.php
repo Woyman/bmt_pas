@@ -31,32 +31,15 @@
     <div class="container">
       <div class="row">
 
-      <div class="span3">
-          <aside>
-            <div class="widget">
-              <h4>Produk & Layanan Lainnya</h4>
-              <ul class="cat">
-                    <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
-                    <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
-                    <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
-                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
-                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
-                    <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
-                    <li><a href="index.php?page=tabungan-smart">Tabungan Smart</a></li>
-              </ul>
-            </div>
-          </aside>
-        </div>
-
         <div class="span9" style="margin-bottom: 60px">
-          <img src="assets/img/produk/simbah.jpg" class="botspacer50" height="600" style="max-height: 600px;">
-      		<h4>Apa itu Tabungan Simbah? </h4>
-              <p>SIMBAH adalah <b>simpanan berhadiah,</b> merupakan salah satu produk tabungan KSPPS BMT PAS yang membantu  anggota/nasabah mendapatkan hadiah langsung pada saat pembukaan rekening tanpa undian.</p>
+            <img src="assets/img/produk/simbah.jpg" class="botspacer50" height="600" style="max-height: 600px;">
+            <h4>Apa itu Tabungan Simbah? </h4>
+                <p>SIMBAH adalah <b>simpanan berhadiah,</b> merupakan salah satu produk tabungan KSPPS BMT PAS yang membantu  anggota/nasabah mendapatkan hadiah langsung pada saat pembukaan rekening tanpa undian.</p>
 
-              <p>  Dalil Al-qur’an : "Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu (pelit) dan janganlah kamu terlalu mengulurkannya (boros) karena itu kamu menjadi tercela dan menyesal. “QS. Al Isra' (17) ayat 29 </p>
+                <p>  Dalil Al-qur’an : "Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu (pelit) dan janganlah kamu terlalu mengulurkannya (boros) karena itu kamu menjadi tercela dan menyesal. “QS. Al Isra' (17) ayat 29 </p>
 
-              <p>  Hadist Rasulullah SAW  bersabda, “Simpanlah sebagian dari harta kamu untuk kebaikan masa depan kamu, karena itu jauh lebih baik bagimu.” (Hadits Riwayat Bukhari)</p>
-            <h5>Apa Keuntungan bagi Anggota/ Nasabah?</h5>
+                <p>  Hadist Rasulullah SAW  bersabda, “Simpanlah sebagian dari harta kamu untuk kebaikan masa depan kamu, karena itu jauh lebih baik bagimu.” (Hadits Riwayat Bukhari)</p>
+              <h5>Apa Keuntungan bagi Anggota/ Nasabah?</h5>
               <ol>
                 <li>Memudahkan anggota/Nasabah mendapatkan hadiah langsung tanpa undian</li>
                 <li>Setoran dengan nilai tertentu (lihat table) dan bisa dilayani jemput bola </li>
@@ -88,6 +71,26 @@
                 <li>Anggota/Nasabah masih mendapatkan tambahan bagi hasil setara 0.35% setiap bulannya</li>
               </ol>
               </strong>
+              <p><strong>Mulai Menabung di BMT PAS : <a target="_blank" href="https://shorturl.at/eqsvF">https://shorturl.at/eqsvF</a></strong></p>
+          </div>
+  
+          <div class="span3">
+            <aside>
+              <div class="widget">
+                <h4>Produk & Layanan Lainnya</h4>
+                <ul class="cat">
+                      <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
+                      <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
+                      <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
+                      <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
+                      <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
+                      <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
+                      <li><a href="index.php?page=tabungan-smart">Tabungan Smart</a></li>
+                </ul>
+              </div>
+            </aside>
+          </div>
+
       </div>
     </div>
   </section>

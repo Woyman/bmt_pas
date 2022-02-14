@@ -30,6 +30,46 @@
     <div class="container">
       <div class="row">
 
+        <div class="span9" style="margin-bottom: 60px">
+
+            <div>
+              <img src="assets/img/produk/ketupat.jpg" class="botspacer50" height="600" style="max-height: 600px;">
+            </div>
+
+            <h4>Apa itu Tabungan THR ?</h4>
+              <p>THR adalah merupakan salah satu produk tabungan KSPPS BMT PAS yang membantu  anggota/nasabah mewujudkan kebahagiaan di hari raya iedul fitri.</p>
+              <p>Dalil Al-qur’an : "Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu (pelit) dan janganlah kamu terlalu mengulurkannya (boros) karena itu kamu menjadi tercela dan menyesal. “QS. Al Isra' (17) ayat 29 </p>
+              <p>Hadist Rasulullah SAW  bersabda, “Simpanlah sebagian dari harta kamu untuk kebaikan masa depan kamu, karena itu jauh lebih baik bagimu.” (Hadits Riwayat Bukhari)</p>
+
+            
+
+            <h5>Apa Keuntungan bagi Anggota/ Nasabah?</h5>
+
+            <ol>        
+              <li>Memudahkan anggota/Nasabah mewujudkan kebahagiaan di hari raya idul fitri dengan mudah</li>
+              <li>Setoran bisa sewaktu-waktu dan bisa dilayani jemput bola </li>
+              <li>Mendapatkan bonus parcel lebaran dengan saldo tertentu*</li>
+              <li>Saldo tabungan bisa digunakan untuk agunan/jaminan pembiayaan </li>
+              <li>Tidak ada biaya administrasi bulanan.</li>
+              <li>mendapatkan tambahan bagi hasil bulanan yang kompetitif.</li>
+
+            </ol>
+              <h5>	Apa saja syarat dan ketentuan membuka rekening Tabungan THR?</h5>
+            <ol>
+            
+              <li>Mendaftarkan/terdaftar sebagai anggota BMT PAS</li>
+              <li>Menyerahkan Fotokopi KTP/KK</li>
+              <li>Menandatangani surat pernyataan tentang hak dan kewajiban Program Tabungan THR</li>
+              <li>Menyetorkan Pembukaan Rekening dengan Saldo minimal Rp. 100.000-,</li>
+              <li>Penyetoran selanjutnya bisa dilakukan sewaktu-waktu minimal Rp. 50.000-, </li>
+              <li>Penyetoran bisa ke kantor BMT PAS dan atau hubungi marketing kami untuk “jemput bola”</li>
+              <li>Penarikan Saldo Tabungan THR hanya bisa dilakukan paling cepat 5 hari sebelum idul fitri.</li>
+            </ol>
+
+            <p><strong>Mulai Menabung di BMT PAS : <a target="_blank" href="https://shorturl.at/eqsvF">https://shorturl.at/eqsvF</a></strong></p>
+
+        </div>
+
         <div class="span3">
           <aside>
             <div class="widget">
@@ -46,43 +86,5 @@
             </div>
           </aside>
         </div>
-
-        <div class="span9" style="margin-bottom: 60px">
-
-          <div>
-            <img src="assets/img/produk/ketupat.jpg" class="botspacer50" height="600" style="max-height: 600px;">
-          </div>
-
-        <h4>Apa itu Tabungan THR ?</h4>
-        <p>THR adalah merupakan salah satu produk tabungan KSPPS BMT PAS yang membantu  anggota/nasabah mewujudkan kebahagiaan di hari raya iedul fitri.</p>
-<p>Dalil Al-qur’an : "Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu (pelit) dan janganlah kamu terlalu mengulurkannya (boros) karena itu kamu menjadi tercela dan menyesal. “QS. Al Isra' (17) ayat 29 </p>
-<p>Hadist Rasulullah SAW  bersabda, “Simpanlah sebagian dari harta kamu untuk kebaikan masa depan kamu, karena itu jauh lebih baik bagimu.” (Hadits Riwayat Bukhari)</p>
-
-        
-
-        <h5>Apa Keuntungan bagi Anggota/ Nasabah?</h5>
-
-        <ol>        
-         <li>Memudahkan anggota/Nasabah mewujudkan kebahagiaan di hari raya idul fitri dengan mudah</li>
-		<li>Setoran bisa sewaktu-waktu dan bisa dilayani jemput bola </li>
-		<li>Mendapatkan bonus parcel lebaran dengan saldo tertentu*</li>
-		<li>Saldo tabungan bisa digunakan untuk agunan/jaminan pembiayaan </li>
-		<li>Tidak ada biaya administrasi bulanan.</li>
-		<li>mendapatkan tambahan bagi hasil bulanan yang kompetitif.</li>
-
-        </ol>
-        <h5>	Apa saja syarat dan ketentuan membuka rekening Tabungan THR?</h5>
-        <ol>
-         
-<li>Mendaftarkan/terdaftar sebagai anggota BMT PAS</li>
-<li>Menyerahkan Fotokopi KTP/KK</li>
-<li>Menandatangani surat pernyataan tentang hak dan kewajiban Program Tabungan THR</li>
-<li>Menyetorkan Pembukaan Rekening dengan Saldo minimal Rp. 100.000-,</li>
-<li>Penyetoran selanjutnya bisa dilakukan sewaktu-waktu minimal Rp. 50.000-, </li>
-<li>Penyetoran bisa ke kantor BMT PAS dan atau hubungi marketing kami untuk “jemput bola”</li>
-<li>Penarikan Saldo Tabungan THR hanya bisa dilakukan paling cepat 5 hari sebelum idul fitri.</li>
-        </ol>
-
-      </div>
     </div>
   </section>

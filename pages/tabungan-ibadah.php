@@ -6,7 +6,6 @@
             <div class="centered">
 
               <h3>Tabungan IBADAH BMT PAS</h3>
-
               
             </div>
           </div>
@@ -34,32 +33,15 @@
     <div class="container">
       <div class="row">
 
-      <div class="span3">
-          <aside>
-            <div class="widget">
-              <h4>Produk & Layanan Lainnya</h4>
-              <ul class="cat">
-                    <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
-                    <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
-                    <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
-                    <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
-                    <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
-                    <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
-                    <li><a href="index.php?page=tabungan-smart">Tabungan Smart</a></li>
-              </ul>
-            </div>
-          </aside> 
-        </div>
-
         <div class="span9" style="margin-bottom: 60px">
 
           <img src="assets/img/produk/deposito.jpg" class="botspacer50" height="600" style="max-height: 600px;">
 
       		<h4>Apa itu Tabungan IBADAH? </h4>
               <p>IBADAH adalah Investasi Berjangka Mudharobah, merupakan salah satu produk tabungan berjangka/deposito
-			  KSPPS BMT PAS yang membantu  anggota/nasabah mendapatkan bagi hasil lebih tinggi dari pada tabungan berjangka/deposito di bank, dan sistem penyetoran serta penarikannya hanya bisa dilakukan setelah melewati waktu tertentu.
-			  Dalam Islam akad mudharabah untuk produk tabungan berjangka/deposito IBADAH KSPPS BMT PAS 
-			  dibolehkan sebab bertujuan untuk saling membantu antara investor (rab al mal) dengan pengelola bisnis (mudharib). Demikian dikatakan oleh Ibn Rusyd (w.595/1198) dari madzhab Maliki bahwa kebolehan akad mudharabah merupakan suatu kelonggaran yang khusus.</p>
+                  KSPPS BMT PAS yang membantu  anggota/nasabah mendapatkan bagi hasil lebih tinggi dari pada tabungan berjangka/deposito di bank, dan sistem penyetoran serta penarikannya hanya bisa dilakukan setelah melewati waktu tertentu.
+                  Dalam Islam akad mudharabah untuk produk tabungan berjangka/deposito IBADAH KSPPS BMT PAS 
+                  dibolehkan sebab bertujuan untuk saling membantu antara investor (rab al mal) dengan pengelola bisnis (mudharib). Demikian dikatakan oleh Ibn Rusyd (w.595/1198) dari madzhab Maliki bahwa kebolehan akad mudharabah merupakan suatu kelonggaran yang khusus.</p>
 
               <p>	Dalil Al-qur’an : "Dan janganlah kamu jadikan tanganmu terbelenggu pada lehermu (pelit) dan janganlah kamu terlalu mengulurkannya (boros) karena itu kamu menjadi tercela dan menyesal. “QS. Al Isra' (17) ayat 29 </p>
 
@@ -87,13 +69,35 @@
 
               <h5>Table Tabungan IBADAH</h5>
               <img src="assets/img/table-tabungan-ibadah.png" width="700">
+              
               <br><br>
               <strong>
-              <h6>Catatan :</h6>
+                <h6>Catatan :</h6>
                 <p><strong>Nilai Bagi Hasil tiap bulan di atas hanya gambaran nilai rata-rata pembulatan salama 5 tahun terakhir di KSPPS BMT PAS</strong></p>
               </strong>
+              <p><strong>Mulai Menabung di BMT PAS : <a target="_blank" href="https://shorturl.at/eqsvF">https://shorturl.at/eqsvF</a></strong></p>
 
+        </div>
+        <div class="span3">
+            <aside>
+
+              <div class="widget">
+                <h4>Produk & Layanan Lainnya</h4>
+                <ul class="cat">
+                      <li><a href="index.php?page=tabungan-saham">Tabungan Saham</a></li>
+                      <li><a href="index.php?page=tabungan-qurban">Tabungan Qurban</a></li>
+                      <li><a href="index.php?page=tabungan-thr">Tabungan THR</a></li>
+                      <li><a href="index.php?page=tabungan-tasbih">Tabungan Tasbih</a></li>
+                      <li><a href="index.php?page=tabungan-simbah">Tabungan Simbah</a></li>
+                      <li><a href="index.php?page=tabungan-ibadah">Tabungan Ibadah</a></li>
+                      <li><a href="index.php?page=tabungan-smart">Tabungan Smart</a></li>
+                </ul>
+              </div>
+
+            </aside> 
+          
+        </div>
 
       </div>
     </div>
-  </section>
+</section>
