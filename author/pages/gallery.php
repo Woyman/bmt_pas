@@ -159,8 +159,8 @@
           <li class="portfolio-item2" data-id="id-0" data-type="web">
             <div class="span4">
               <div class="thumbnail">
-                <div class="image-wrapp">
-                  <img src="<?= $url; ?>" alt="Portfolio name" title="" />
+                <div class="image-wrapp" style="max-height: 245px;">
+                  <img src="<?= $url; ?>" alt="Portfolio name" title=""  />
                   <article class="da-animate da-slideFromRight" style="display: block;">
                     <h4><?= $photo['nama_kegiatan'] ?></h4>
                     <!-- <a href="portfolio-detail.html"><i class="icon-rounded icon-48 icon-link"></i></a> -->

@@ -213,9 +213,10 @@ function changeIDRtoInt($price)
 }
 
 function getNameFoto($file){
+		
+		$fileInfo = pathinfo($_FILES['foto']['name']);		
+		$file_ext = $fileInfo['extension'];
 
-		$nameArr = explode('.',$_FILES['foto']['name']);
-		$file_ext = end($nameArr); 
 		$filetmp = $_FILES['foto']['tmp_name'];
 		$filename = uniqid().".".$file_ext;
 		$file = array();
