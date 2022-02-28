@@ -36,29 +36,33 @@
       <div class="row">
         <img src="assets/img/lpz-pas_laznas-bsm.jpeg" class="botspacer50 centered" height="600" style="max-height: 600px">
     
-    <p><b>LAZNAS DEWAN DAKWAH Umat</b> adalah Lembaga Amil Zakat Nasional milik Bank Mandiri Syari’ah, salah satu perbankan syari’ah Nasional terbesar di Indonesia.<p>
-    <p><b>Lembaga Pengelola Zakat KSPPS BMT Projo Artha Sejahtera </b>adalah Lembaga Pengelola Zakat yang selanjutnya disingkat LPZ PAS adalah satuan organisasi yang dibentuk oleh LAZNAS DEWAN DAKWAH Umat untuk membantu pengumpulan zakat di wilayah DIY.</p>
+    <p><b>Pengelolaan ZISWAF KSPPS BMT Projo Artha Sejahtera</b><p>
 
-  <h5><b>Pengelolaan zakat,infaq, shodaqoh bertujuan:</b></h5>
+    <p>Dalam upaya optimalisasi pengelolaan dana ZISWAF KSPPS BMT PAS bekerjasama dengan MPZ Yayasan Ibu Indonesia Mengaji (YIIM). Yayasan Ibu Indonesia Mengaji (YIIM) sendiri merupakan lembaga sosial keagamaan yang telah berdiri dengan Badan Hukum AHU-0001324.AH.01.04 Tahun 2018. Pada tanggal 4 Maret tahun 2020 YIIM dengan LAZNAS Dewan Dakwah Perwakilan Yogyakarta melakukan tanda tangan Perjanjian Kerjasama. Dalam perjanjian tersebut menjadikan Yayasan  Ibu Indonesia Mengaji sebagai MPZ (Mitra Pelayanan Zakat) dari Dewan Dakwah perwakilan Yogyakarta.</p>
+    <p><b>YIIM</b> sebagai Mitra Pengelola Zakat yang selanjutnya disingkat MPZ adalah satuan organisasi yang dibentuk oleh LAZNAS Dewan Dakwah untuk membantu pengumpulan dan penyaluran ZISWAF di wilayah DIY.</p>
+
+  <h5><b>Pengelolaan ZISWAF bertujuan:</b></h5>
 
   <ol>
     <li>meningkatkan efektivitas dan efisiensi pelayanan dalam pengelolaan zakat, infaq dan shodaqoh</li>
     <li>meningkatkan manfaat zakat, infaq, shodaqoh untuk mewujudkan kesejahteraan masyarakat dan penanggulangan kemiskinan.</li>
   </ol>
   
-  <h5>Apa Saja Program Sosial LPZ PAS itu?</h5>
+  <h5>Apa Saja Program Sosial KSPPS BMT  PAS  bersama YIIM itu?</h5>
   <ol>
     <li>Program Ibu Mengaji untuk Maju Mandiri (PIM3) Merupakan program pemberdayaan khusus ibu-ibu dhuafa untuk memajukan kesejahteraan perekonomian dan kerohanian. Kegiatan Program PIM3 bersifat pekanan (pertemuan 1 x seminggu) ini diantaranya :
-      <ol>
+      <ol type="a">
         <li>Pembelajaran baca Al-qur’an</li>
         <li>Pinjaman tanpa jasa (kembali pokok saja)</li>
         <li>Pemberdayaan ekonomi</li>
-        <li>Bimbingan Keagamaan</li></ol></li>
-        <li>Santunan Anak Yatim</li>
-        <li>Cek Kesehatan kaum dhuafa (gratis) berupa : diagnose umum, cek gula, asam urat, collesterol</li>
-        <li>Pengajian Sabtu kliwon</li>
-        <li>Pengadaan mobil Ambulance*</li>
+        <li>Bimbingan Keagamaan</li>
       </ol>
+    </li>
+    <li>Santunan Anak Yatim</li>
+    <li>Cek Kesehatan kaum dhuafa (gratis) berupa : diagnose umum, cek gula, asam urat, collesterol</li>
+    <li>Pengajian Sabtu kliwon</li>
+    <li>Pengadaan mobil Ambulance*</li>
+  </ol>
 
     <h5>Pengertian dan siapa saja yang wajib Zakat, infaq dan shodaqoh?</h5>
 
@@ -216,7 +220,7 @@ Total keuntungan per tahun : Rp. 10.000.000 x 12 bulan = Rp. 120.000.000
 Jumlah harta yang harus dikeluarkan zakatnya = (Modal diputar + keuntungan + piutang) – (hutang + kerugian) = (150.000.000 + 120.000.000 + 20.000.000) – (40.000.000) = 290.000.000 – 40.000.000 = Rp. 250.000.000 (te;ah melewati nishab)
 </br>Zakat = 2,5% x Rp. 250.000.000 = Rp. 6.250.000</p>
 
-
+<p><strong>FORM BAYAR ZISWAF : <a target="_blank" href="https://shorturl.at/hpB24">https://shorturl.at/hpB24</a></strong></p>
     
 
 
