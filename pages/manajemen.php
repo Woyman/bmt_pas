@@ -33,17 +33,17 @@
           <hr>
             <div class="row">
               <div class="span12 row-fluid">
-                  <div class="well well-info botspacer0 span6">
-                      <img src="assets/struktur/1.jpg" width="100%">
+                  <div class="well well-info botspacer0 span6" style="background-color: unset;" >
+                      <img src="assets/struktur/1-new.jpg" width="100%">
                   </div>    
-                  <div class="well well-info botspacer0 span6">
+                  <div class="well well-info botspacer0 span6" style="background-color: unset;" >
                     
-                      <img src="assets/struktur/2.jpg" width="100%">                    
+                      <img src="assets/struktur/2-new.jpg" width="100%" style="background-color: unset;" >                    
                   </div>    
               </div>
               <div class="span12 row-fluid">
-                 <div class="well well-info botspacer0 span8 offset2">
-                      <img src="assets/struktur/3.jpg" width="100%">
+                 <div class="well well-info botspacer0 span8 offset2" style="background-color: unset;" >
+                      <img src="assets/struktur/3-new.jpg" width="100%">
                   </div>   
               </div>
             </div>
@@ -59,29 +59,22 @@
 
           <div class="row">
             <div class="span12 row-fluid">
-              <div class="well well-info botspacer0 span5 offset3">
-                      <img src="assets/struktur/4.jpg" width="100%">
+              <div class="well well-info botspacer0 span5 offset3" style="background-color: unset;">
+                      <img src="assets/struktur/4-new.jpg" width="100%">
                   </div>   
             </div>
           </div>
           <div class="row">
             <div class="span12 row-fluid">
-              <div class="well well-info botspacer0 span12">
-                      <img src="assets/struktur/5.jpg" width="100%">
+              <div class="well well-info botspacer0 span12" style="background-color: unset;" >
+                      <img src="assets/struktur/5-new.jpg" width="100%">
               </div>   
             </div>
           </div>
           <div class="row">
             <div class="span12 row-fluid">
-              <div class="well well-info botspacer0 span12">
-                      <img src="assets/struktur/6.jpg" width="100%">
-              </div>   
-            </div>
-          </div>
-          <div class="row">
-            <div class="span12 row-fluid">
-              <div class="well well-info botspacer0 span12">
-                      <img src="assets/struktur/7.jpg" width="100%">
+              <div class="well well-info botspacer0 span12" style="background-color: unset;" >
+                      <img src="assets/struktur/6-new.jpg" width="100%">
               </div>   
             </div>
           </div>
